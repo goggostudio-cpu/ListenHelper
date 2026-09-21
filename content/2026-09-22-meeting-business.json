@@ -1,0 +1,26 @@
+{
+  "en": "Our team has a meeting tomorrow, but I need more time to finish my report. I asked my coworker if we could move the meeting to the afternoon. She checked her schedule and said that worked for her. I updated the calendar and let the rest of the team know about the change. A quick message helped us avoid confusion and keep the project on track.",
+  "ko": "우리 팀은 내일 회의가 있지만, 저는 보고서를 마무리할 시간이 조금 더 필요합니다. 동료에게 회의를 오후로 옮길 수 있는지 물어보았습니다. 동료는 일정을 확인한 뒤 괜찮다고 했습니다. 저는 일정을 변경하고 나머지 팀원들에게 변경 사항을 알렸습니다. 간단한 메시지 덕분에 혼란을 피하고 프로젝트를 계획대로 진행할 수 있었습니다.",
+  "expressions": [
+    {
+      "en": "move the meeting",
+      "ko": "회의 시간을 옮기다, 회의 일정을 변경하다",
+      "example": "Can we move the meeting to Friday morning?"
+    },
+    {
+      "en": "work for someone",
+      "ko": "누군가에게 시간이나 일정이 괜찮다",
+      "example": "Three o'clock works for me."
+    },
+    {
+      "en": "let someone know",
+      "ko": "누군가에게 알리다",
+      "example": "Please let me know when you finish the report."
+    },
+    {
+      "en": "keep something on track",
+      "ko": "~을 계획대로 진행되게 하다",
+      "example": "Weekly check-ins help keep our work on track."
+    }
+  ]
+}
