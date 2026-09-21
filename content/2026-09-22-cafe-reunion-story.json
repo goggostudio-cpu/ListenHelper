@@ -1,0 +1,26 @@
+{
+  "en": "I ran into a friend at a small cafe after work. She asked, \"How have you been lately?\" I told her that work had been busy, but I was doing well. We ordered coffee and caught up for almost an hour. Before we left, she said, \"Let's do this again soon.\" It was nice to talk face to face after such a long time.",
+  "ko": "퇴근 후 작은 카페에서 우연히 친구를 만났습니다. 친구가 \"요즘 어떻게 지냈어?\"라고 물었습니다. 저는 일이 바쁘긴 했지만 잘 지내고 있다고 말했습니다. 우리는 커피를 주문하고 거의 한 시간 동안 서로의 근황을 이야기했습니다. 헤어지기 전에 친구가 \"조만간 또 만나자.\"라고 말했습니다. 오랜만에 직접 얼굴을 보며 이야기하니 좋았습니다.",
+  "expressions": [
+    {
+      "en": "run into someone",
+      "ko": "누군가를 우연히 만나다",
+      "example": "I ran into my old coworker at the supermarket."
+    },
+    {
+      "en": "How have you been lately?",
+      "ko": "요즘 어떻게 지냈어?",
+      "example": "It's been a few months. How have you been lately?"
+    },
+    {
+      "en": "catch up",
+      "ko": "밀린 이야기를 나누다, 근황을 주고받다",
+      "example": "We had lunch together and caught up on each other's lives."
+    },
+    {
+      "en": "face to face",
+      "ko": "직접 만나서, 얼굴을 마주 보고",
+      "example": "I prefer to discuss important things face to face."
+    }
+  ]
+}
