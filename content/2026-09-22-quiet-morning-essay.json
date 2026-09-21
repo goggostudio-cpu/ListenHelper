@@ -1,0 +1,26 @@
+{
+  "en": "A quiet morning can change the way the whole day feels. When I wake up a little early, I have time to enjoy breakfast without rushing. I can open the window, make a cup of coffee, and think about what I want to do that day. Nothing special needs to happen for the morning to feel good. Sometimes having a few peaceful minutes is enough to start the day well.",
+  "ko": "조용한 아침은 하루 전체를 느끼는 방식을 바꿀 수 있습니다. 조금 일찍 일어나면 서두르지 않고 아침 식사를 즐길 시간이 생깁니다. 창문을 열고 커피 한 잔을 만든 뒤 그날 무엇을 하고 싶은지 생각해 볼 수도 있습니다. 기분 좋은 아침을 보내기 위해 특별한 일이 일어날 필요는 없습니다. 때로는 몇 분간의 평온한 시간만으로도 하루를 기분 좋게 시작하기에 충분합니다.",
+  "expressions": [
+    {
+      "en": "without rushing",
+      "ko": "서두르지 않고",
+      "example": "I like to get ready in the morning without rushing."
+    },
+    {
+      "en": "have time to",
+      "ko": "~할 시간이 있다",
+      "example": "I finally have time to read my new book."
+    },
+    {
+      "en": "nothing special",
+      "ko": "특별한 것은 아무것도 없는, 별것 아닌",
+      "example": "We did nothing special over the weekend."
+    },
+    {
+      "en": "be enough to",
+      "ko": "~하기에 충분하다",
+      "example": "A short break can be enough to clear your mind."
+    }
+  ]
+}
