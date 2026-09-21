@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "updatedAt": "2026-09-22T09:00:00+09:00",
+  "items": [
+    {
+      "id": "quote-2026-09-22",
+      "revision": 1,
+      "type": "quote",
+      "date": "2026-09-22",
+      "title": "One sentence at a time",
+      "titleKo": "\uD55C \uBB38\uC7A5\uC529",
+      "level": "Beginner",
+      "category": "Learning",
+      "durationSec": 20,
+      "summary": "A small daily practice can become a lasting skill.",
+      "summaryKo": "\uB9E4\uC77C\uC758 \uC791\uC740 \uC5F0\uC2B5\uC740 \uC624\uB798\uAC00\uB294 \uC2E4\uB825\uC774 \uB420 \uC218 \uC788\uC2B5\uB2C8\uB2E4.",
+      "path": "content/quotes/2026/09/quote-2026-09-22.json",
+      "tags": ["learning", "habit", "beginner"]
+    }
+  ]
+}
