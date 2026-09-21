@@ -1,0 +1,26 @@
+{
+  "en": "When you are learning something new, it is easy to focus only on your mistakes. Instead, try to notice what you can do today that was difficult last week. Small improvements are often hard to see from day to day. Keep practicing even when progress feels slow. Looking back after a few months may show you how far you have come.",
+  "ko": "새로운 것을 배울 때는 자신의 실수에만 집중하기 쉽습니다. 그 대신 지난주에는 어려웠지만 오늘은 할 수 있는 것이 무엇인지 살펴보세요. 작은 발전은 하루하루 지날 때는 알아차리기 어려운 경우가 많습니다. 발전이 느리게 느껴질 때도 계속 연습하세요. 몇 달 후 돌아보면 자신이 얼마나 성장했는지 알 수 있을 것입니다.",
+  "expressions": [
+    {
+      "en": "focus on",
+      "ko": "~에 집중하다",
+      "example": "I need to focus on one task this morning."
+    },
+    {
+      "en": "day to day",
+      "ko": "하루하루, 날마다",
+      "example": "My schedule changes from day to day."
+    },
+    {
+      "en": "look back",
+      "ko": "지난 일을 돌아보다",
+      "example": "When I look back, I can see how much I learned."
+    },
+    {
+      "en": "how far you have come",
+      "ko": "얼마나 많이 발전해 왔는지",
+      "example": "Your old photos can remind you how far you have come."
+    }
+  ]
+}
