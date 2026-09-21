@@ -1,0 +1,26 @@
+{
+  "en": "Octopuses have three hearts and blue blood. Two hearts help move blood through the gills, while the other sends blood to the rest of the body. Their blood looks blue because it uses a copper-based protein to carry oxygen. Octopuses are also known for solving simple problems and exploring objects around them. These unusual features make them fascinating animals to study.",
+  "ko": "\uBB38\uC5B4\uB294 \uC138 \uAC1C\uC758 \uC2EC\uC7A5\uACFC \uD478\uB978\uC0C9 \uD53C\uB97C \uAC00\uC9C0\uACE0 \uC788\uC2B5\uB2C8\uB2E4. \uB450 \uAC1C\uC758 \uC2EC\uC7A5\uC740 \uC544\uAC00\uBBF8\uB97C \uD1B5\uD574 \uD53C\uAC00 \uD750\uB974\uB3C4\uB85D \uB3D5\uACE0, \uB098\uBA38\uC9C0 \uD558\uB098\uB294 \uBAB8\uC758 \uB2E4\uB978 \uBD80\uBD84\uC73C\uB85C \uD53C\uB97C \uBCF4\uB0C5\uB2C8\uB2E4. \uBB38\uC5B4\uC758 \uD53C\uAC00 \uD30C\uB797\uAC8C \uBCF4\uC774\uB294 \uAC83\uC740 \uC0B0\uC18C\uB97C \uC6B4\uBC18\uD558\uB294 \uB370 \uAD6C\uB9AC\uB97C \uD3EC\uD568\uD55C \uB2E8\uBC31\uC9C8\uC744 \uC0AC\uC6A9\uD558\uAE30 \uB54C\uBB38\uC785\uB2C8\uB2E4. \uBB38\uC5B4\uB294 \uAC04\uB2E8\uD55C \uBB38\uC81C\uB97C \uD574\uACB0\uD558\uACE0 \uC8FC\uBCC0\uC758 \uBB3C\uCCB4\uB97C \uD0D0\uC0C9\uD558\uB294 \uB2A5\uB825\uC73C\uB85C\uB3C4 \uC54C\uB824\uC838 \uC788\uC2B5\uB2C8\uB2E4. \uC774\uB7EC\uD55C \uB3C5\uD2B9\uD55C \uD2B9\uC9D5\uB4E4\uC740 \uBB38\uC5B4\uB97C \uB9E4\uC6B0 \uD765\uBBF8\uB85C\uC6B4 \uC5F0\uAD6C \uB300\uC0C1\uC73C\uB85C \uB9CC\uB4ED\uB2C8\uB2E4.",
+  "expressions": [
+    {
+      "en": "the rest of",
+      "ko": "\uB098\uBA38\uC9C0 ~",
+      "example": "I'll finish the rest of the work tomorrow."
+    },
+    {
+      "en": "be known for",
+      "ko": "~\uB85C \uC798 \uC54C\uB824\uC838 \uC788\uB2E4",
+      "example": "The town is known for its beautiful beaches."
+    },
+    {
+      "en": "carry oxygen",
+      "ko": "\uC0B0\uC18C\uB97C \uC6B4\uBC18\uD558\uB2E4",
+      "example": "Red blood cells help carry oxygen around the body."
+    },
+    {
+      "en": "make A fascinating",
+      "ko": "A\uB97C \uD765\uBBF8\uB86D\uAC8C \uB9CC\uB4E4\uB2E4",
+      "example": "The unexpected ending makes the story fascinating."
+    }
+  ]
+}
