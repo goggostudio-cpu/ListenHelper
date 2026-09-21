@@ -1,0 +1,26 @@
+{
+  "en": "Some days, you may not feel ready to work on your goal. Instead of waiting for motivation, start with one small task. You can read one page, practice for ten minutes, or organize your desk. Finishing something small can give you the energy to keep going. Progress does not have to be fast to be meaningful.",
+  "ko": "\uC5B4\uB5A4 \uB0A0\uC5D0\uB294 \uBAA9\uD45C\uB97C \uC704\uD574 \uB178\uB825\uD560 \uC900\uBE44\uAC00 \uB418\uC9C0 \uC54A\uC740 \uAC83\uCC98\uB7FC \uB290\uAEF4\uC9C8 \uC218 \uC788\uC2B5\uB2C8\uB2E4. \uC758\uC695\uC774 \uC0DD\uAE30\uAE30\uB97C \uAE30\uB2E4\uB9AC\uB294 \uB300\uC2E0 \uC791\uC740 \uC77C \uD558\uB098\uBD80\uD130 \uC2DC\uC791\uD574 \uBCF4\uC138\uC694. \uD55C \uD398\uC774\uC9C0\uB97C \uC77D\uAC70\uB098, 10\uBD84 \uB3D9\uC548 \uC5F0\uC2B5\uD558\uAC70\uB098, \uCC45\uC0C1\uC744 \uC815\uB9AC\uD560 \uC218\uB3C4 \uC788\uC2B5\uB2C8\uB2E4. \uC791\uC740 \uC77C\uC774\uB77C\uB3C4 \uB05D\uB0B4\uBA74 \uACC4\uC18D\uD574 \uB098\uAC08 \uD798\uC744 \uC5BB\uC744 \uC218 \uC788\uC2B5\uB2C8\uB2E4. \uBC1C\uC804\uC740 \uC758\uBBF8\uAC00 \uC788\uAE30 \uC704\uD574 \uBC18\uB4DC\uC2DC \uBE68\uB77C\uC57C \uD558\uB294 \uAC83\uC740 \uC544\uB2D9\uB2C8\uB2E4.",
+  "expressions": [
+    {
+      "en": "instead of",
+      "ko": "~\uD558\uB294 \uB300\uC2E0\uC5D0",
+      "example": "I took a short walk instead of watching TV."
+    },
+    {
+      "en": "start with",
+      "ko": "~\uBD80\uD130 \uC2DC\uC791\uD558\uB2E4",
+      "example": "Let's start with the easiest part of the project."
+    },
+    {
+      "en": "keep going",
+      "ko": "\uACC4\uC18D\uD558\uB2E4, \uACC4\uC18D \uB098\uC544\uAC00\uB2E4",
+      "example": "I was tired, but I decided to keep going."
+    },
+    {
+      "en": "does not have to",
+      "ko": "\uBC18\uB4DC\uC2DC ~\uD560 \uD544\uC694\uB294 \uC5C6\uB2E4",
+      "example": "Your plan does not have to be perfect."
+    }
+  ]
+}
