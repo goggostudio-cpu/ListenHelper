@@ -1,0 +1,26 @@
+{
+  "en": "I arrived at the train station early because I did not want to miss my train. Before getting on, I checked the platform number one more time. My seat was by the window, so I could watch small towns and fields pass by. When the train reached my stop, I made sure I had all my bags with me. Traveling by train gave me a chance to slow down and enjoy the journey.",
+  "ko": "기차를 놓치고 싶지 않아서 기차역에 일찍 도착했습니다. 기차에 타기 전에 승강장 번호를 한 번 더 확인했습니다. 제 자리는 창가 쪽이어서 작은 마을과 들판이 지나가는 모습을 볼 수 있었습니다. 기차가 목적지에 도착했을 때 모든 가방을 챙겼는지 확인했습니다. 기차 여행은 잠시 여유를 갖고 여행 과정을 즐길 수 있는 기회를 주었습니다.",
+  "expressions": [
+    {
+      "en": "get on",
+      "ko": "버스, 기차 등에 타다",
+      "example": "We got on the bus in front of the hotel."
+    },
+    {
+      "en": "one more time",
+      "ko": "한 번 더",
+      "example": "Could you explain that one more time?"
+    },
+    {
+      "en": "make sure",
+      "ko": "반드시 확인하다, 확실히 하다",
+      "example": "Make sure you bring your passport with you."
+    },
+    {
+      "en": "slow down",
+      "ko": "속도를 늦추다, 여유를 가지다",
+      "example": "I try to slow down and enjoy my weekends."
+    }
+  ]
+}
