@@ -1,0 +1,26 @@
+{
+  "en": "I stopped by a small cafe on my way home from work. It was busier than usual, so I had to wait a few minutes for a table. While I was waiting, I noticed someone getting ready to leave and offered to help carry her tray. She smiled and thanked me, and we talked for a moment. It was a small thing, but the friendly conversation made my evening a little better.",
+  "ko": "\uD1F4\uADFC\uAE38\uC5D0 \uC791\uC740 \uCE74\uD398\uC5D0 \uB4E4\uB800\uC2B5\uB2C8\uB2E4. \uD3C9\uC18C\uBCF4\uB2E4 \uC0AC\uB78C\uC774 \uB9CE\uC544\uC11C \uC790\uB9AC\uAC00 \uB0A0 \uB54C\uAE4C\uC9C0 \uBA87 \uBD84 \uAE30\uB2E4\uB824\uC57C \uD588\uC2B5\uB2C8\uB2E4. \uAE30\uB2E4\uB9AC\uB294 \uB3D9\uC548 \uB204\uAD70\uAC00 \uB098\uAC08 \uC900\uBE44\uB97C \uD558\uB294 \uAC83\uC744 \uBCF4\uACE0 \uC7C1\uBC18\uC744 \uC62E\uAE30\uB294 \uAC83\uC744 \uB3C4\uC640\uB4DC\uB9AC\uACA0\uB2E4\uACE0 \uD588\uC2B5\uB2C8\uB2E4. \uADF8\uBD84\uC740 \uBBF8\uC18C\uB97C \uC9C0\uC73C\uBA70 \uACE0\uB9D9\uB2E4\uACE0 \uD588\uACE0, \uC6B0\uB9AC\uB294 \uC7A0\uC2DC \uC774\uC57C\uAE30\uB97C \uB098\uB204\uC5C8\uC2B5\uB2C8\uB2E4. \uC791\uC740 \uC77C\uC774\uC5C8\uC9C0\uB9CC \uADF8 \uCE5C\uADFC\uD55C \uB300\uD654 \uB355\uBD84\uC5D0 \uC800\uB141 \uC2DC\uAC04\uC774 \uC870\uAE08 \uB354 \uC88B\uC544\uC84C\uC2B5\uB2C8\uB2E4.",
+  "expressions": [
+    {
+      "en": "stop by",
+      "ko": "\uC7A0\uAE50 \uB4E4\uB974\uB2E4",
+      "example": "I'll stop by the grocery store after work."
+    },
+    {
+      "en": "on my way home",
+      "ko": "\uC9D1\uC5D0 \uAC00\uB294 \uAE38\uC5D0",
+      "example": "I picked up some bread on my way home."
+    },
+    {
+      "en": "busier than usual",
+      "ko": "\uD3C9\uC18C\uBCF4\uB2E4 \uB354 \uBD90\uBE44\uB294",
+      "example": "The train was busier than usual this morning."
+    },
+    {
+      "en": "for a moment",
+      "ko": "\uC7A0\uC2DC \uB3D9\uC548",
+      "example": "Can I speak with you for a moment?"
+    }
+  ]
+}
