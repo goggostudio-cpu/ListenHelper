@@ -1,0 +1,27 @@
+{
+  "en": "A quiet start does not mean you are moving slowly. Some progress happens before anyone can see it. When you practice a skill for a few minutes each day, small efforts begin to add up. You may not notice a big change this week, but your ability is still growing. Keep showing up, especially on the days when you do not feel ready. Consistency can turn an ordinary routine into real progress.",
+  "ko": "조용한 시작이 천천히 나아가고 있다는 뜻은 아닙니다. 어떤 발전은 다른 사람이 알아보기 전부터 이루어집니다. 매일 몇 분씩 기술을 연습하면 작은 노력들이 쌓이기 시작합니다. 이번 주에는 큰 변화를 느끼지 못할 수도 있지만, 당신의 능력은 계속 성장하고 있습니다. 준비가 되지 않았다고 느끼는 날에도 꾸준히 계속해 보세요. 꾸준함은 평범한 일상을 진짜 발전으로 바꿀 수 있습니다.",
+  "subject": "quote",
+  "expressions": [
+    {
+      "en": "add up",
+      "ko": "조금씩 쌓여 큰 결과가 되다",
+      "example": "Ten minutes of reading every night can add up over time."
+    },
+    {
+      "en": "keep showing up",
+      "ko": "꾸준히 계속 참여하다, 포기하지 않고 해나가다",
+      "example": "Even when the class feels difficult, keep showing up and doing your best."
+    },
+    {
+      "en": "feel ready",
+      "ko": "준비가 되었다고 느끼다",
+      "example": "You do not have to feel ready before trying something new."
+    },
+    {
+      "en": "turn A into B",
+      "ko": "A를 B로 바꾸다",
+      "example": "A simple plan can turn a busy morning into a calmer one."
+    }
+  ]
+}
