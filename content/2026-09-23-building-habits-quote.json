@@ -1,0 +1,10 @@
+{
+  "en": "I'm trying to wake up earlier these days. I'm trying to drink more water during the day. I'm trying to spend less time on my phone after work. I'm trying to cook at home more often instead of ordering food. I'm also trying to go for a short walk before dinner. I don't do everything perfectly, but I'm slowly building better habits.",
+  "ko": "요즘 더 일찍 일어나려고 노력하고 있습니다. 낮 동안 물을 더 많이 마시려고 노력하고 있습니다. 퇴근 후에는 휴대전화를 보는 시간을 줄이려고 합니다. 음식을 주문하는 대신 집에서 더 자주 요리하려고 노력하고 있습니다. 또한 저녁 식사 전에 짧게 산책하려고 합니다. 모든 것을 완벽하게 하지는 못하지만 조금씩 더 좋은 습관을 만들어 가고 있습니다.",
+  "expressions": [
+    { "en": "I'm trying to ~", "ko": "~하려고 노력하고 있다", "example": "I'm trying to speak English for ten minutes every day." },
+    { "en": "spend less time on ~", "ko": "~에 쓰는 시간을 줄이다", "example": "I'm trying to spend less time on social media." },
+    { "en": "more often", "ko": "더 자주", "example": "I'd like to meet my friends more often." },
+    { "en": "build a habit", "ko": "습관을 만들다, 습관을 들이다", "example": "Reading before bed helped me build a good habit." }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "en": "I was supposed to meet my friend at six. I was supposed to leave work early, but a meeting ran late. I was supposed to take the subway, but there was a delay. I was supposed to arrive first, but my friend got there before me. I called her and said I would be about ten minutes late. Luckily, she didn't mind waiting a little longer.",
+  "ko": "저는 6시에 친구를 만나기로 되어 있었습니다. 일찍 퇴근할 예정이었지만 회의가 늦게 끝났습니다. 지하철을 탈 예정이었지만 운행이 지연되었습니다. 제가 먼저 도착할 예정이었지만 친구가 저보다 먼저 도착했습니다. 저는 친구에게 전화해서 10분 정도 늦을 것 같다고 말했습니다. 다행히 친구는 조금 더 기다리는 것을 괜찮아했습니다.",
+  "expressions": [
+    { "en": "be supposed to ~", "ko": "~하기로 되어 있다, ~할 예정이다", "example": "We're supposed to finish the project by Friday." },
+    { "en": "run late", "ko": "예정보다 늦어지다", "example": "The appointment ran late, so I missed my bus." },
+    { "en": "get there", "ko": "그곳에 도착하다", "example": "What time did you get there yesterday?" },
+    { "en": "I don't mind ~ing", "ko": "~하는 것은 괜찮다, 개의치 않는다", "example": "I don't mind walking if the weather is nice." }
+  ]
+}

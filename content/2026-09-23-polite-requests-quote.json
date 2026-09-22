@@ -1,0 +1,10 @@
+{
+  "en": "Could you give me a minute? Could you check this email before I send it? Could you let me know when you are free? Could you help me move this box? Could you say that again a little more slowly? Using \"Could you\" is a simple way to make everyday requests sound polite and natural.",
+  "ko": "잠시만 시간을 주시겠어요? 이 이메일을 보내기 전에 확인해 주시겠어요? 언제 시간이 되는지 알려주시겠어요? 이 상자를 옮기는 것을 도와주시겠어요? 조금 더 천천히 다시 말씀해 주시겠어요? 'Could you'를 사용하면 일상적인 부탁을 정중하고 자연스럽게 표현할 수 있습니다.",
+  "expressions": [
+    { "en": "Could you give me a minute?", "ko": "잠시만 시간을 주시겠어요?", "example": "Could you give me a minute? I need to finish this message." },
+    { "en": "Could you check ~?", "ko": "~을 확인해 주시겠어요?", "example": "Could you check the meeting time for me?" },
+    { "en": "Could you let me know ~?", "ko": "~을 알려주시겠어요?", "example": "Could you let me know when the package arrives?" },
+    { "en": "Could you say that again?", "ko": "다시 말씀해 주시겠어요?", "example": "Sorry, I didn't hear you. Could you say that again?" }
+  ]
+}

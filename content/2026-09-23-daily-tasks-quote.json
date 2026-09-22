@@ -1,0 +1,10 @@
+{
+  "en": "I need to finish this before lunch. I need to call the customer this afternoon. I need to pick up some groceries on my way home. I need to charge my phone before I go out again. I need to get some rest tonight because tomorrow will be busy. Thinking about what you need to do can help you organize your day.",
+  "ko": "점심 전에 이것을 끝내야 합니다. 오늘 오후에 고객에게 전화해야 합니다. 집에 가는 길에 장을 좀 봐야 합니다. 다시 외출하기 전에 휴대전화를 충전해야 합니다. 내일은 바쁠 예정이라 오늘 밤에는 좀 쉬어야 합니다. 해야 할 일을 생각해 보면 하루를 정리하는 데 도움이 될 수 있습니다.",
+  "expressions": [
+    { "en": "I need to ~", "ko": "나는 ~해야 한다", "example": "I need to send this document before five." },
+    { "en": "pick up", "ko": "사다, 가져오다, 데리러 가다", "example": "I need to pick up some milk after work." },
+    { "en": "on my way home", "ko": "집에 가는 길에", "example": "I'll stop at the bank on my way home." },
+    { "en": "get some rest", "ko": "좀 쉬다, 휴식을 취하다", "example": "You look tired, so try to get some rest tonight." }
+  ]
+}

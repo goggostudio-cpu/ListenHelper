@@ -1,0 +1,10 @@
+{
+  "en": "I usually get up at seven, but today I got up a little late. I usually make coffee at home, but today I bought one on my way to work. I usually eat lunch with my coworkers, but today I had lunch alone. I usually go straight home after work, but today I stopped by the supermarket. I usually watch something before bed, but tonight I plan to read a book instead.",
+  "ko": "저는 보통 7시에 일어나지만 오늘은 조금 늦게 일어났습니다. 보통 집에서 커피를 만들지만 오늘은 출근길에 커피를 하나 샀습니다. 보통 직장 동료들과 점심을 먹지만 오늘은 혼자 점심을 먹었습니다. 보통 퇴근 후 바로 집에 가지만 오늘은 슈퍼마켓에 들렀습니다. 보통 자기 전에 무언가를 보지만 오늘 밤에는 대신 책을 읽을 계획입니다.",
+  "expressions": [
+    { "en": "on my way to", "ko": "~로 가는 길에", "example": "I picked up some bread on my way to school." },
+    { "en": "go straight home", "ko": "곧장 집에 가다", "example": "I'm tired, so I'm going to go straight home." },
+    { "en": "stop by", "ko": "잠깐 들르다", "example": "Can you stop by the pharmacy after work?" },
+    { "en": "instead", "ko": "대신에", "example": "I didn't drive today. I took the subway instead." }
+  ]
+}
