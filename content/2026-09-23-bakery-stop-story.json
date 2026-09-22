@@ -1,0 +1,27 @@
+{
+  "en": "I stopped by a small bakery on my way home yesterday. I only planned to buy some bread, but the smell of fresh cookies caught my attention. I picked up a small bag and brought it to the counter. While I was paying, I realized that I had left my wallet at work. Luckily, I had my phone with me, so I was able to pay with it. I walked out with warm bread, cookies, and a funny story to tell my coworker the next morning.",
+  "ko": "어제 집에 가는 길에 작은 빵집에 들렀습니다. 빵만 살 생각이었지만 갓 구운 쿠키 냄새가 제 눈길을 끌었습니다. 작은 봉지 하나를 집어 계산대로 가져갔습니다. 계산을 하던 중 지갑을 직장에 두고 왔다는 것을 깨달았습니다. 다행히 휴대전화가 있어서 휴대전화로 결제할 수 있었습니다. 따뜻한 빵과 쿠키, 그리고 다음 날 아침 직장 동료에게 들려줄 재미있는 이야기를 가지고 가게를 나왔습니다.",
+  "subject": "story",
+  "expressions": [
+    {
+      "en": "stop by",
+      "ko": "잠깐 들르다",
+      "example": "I'll stop by the supermarket after work."
+    },
+    {
+      "en": "catch someone's attention",
+      "ko": "누군가의 관심을 끌다",
+      "example": "A colorful poster near the station caught my attention."
+    },
+    {
+      "en": "pick up",
+      "ko": "집어 들다, 사다",
+      "example": "Can you pick up some milk on your way home?"
+    },
+    {
+      "en": "leave something at",
+      "ko": "어떤 장소에 무언가를 두고 오다",
+      "example": "I left my umbrella at the restaurant last night."
+    }
+  ]
+}
