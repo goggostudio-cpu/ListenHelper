@@ -1,0 +1,26 @@
+{
+  "en": "I was about to leave home when I noticed it was raining. I was about to call a taxi, but the rain suddenly became lighter. I was about to put my umbrella away when it started raining again. In the end, I took the bus and arrived at work on time. The morning did not go as planned, but everything worked out.",
+  "ko": "집을 나서려던 참에 비가 오는 것을 알아챘습니다. 택시를 부르려던 참이었지만 갑자기 비가 약해졌습니다. 우산을 접으려던 순간 다시 비가 내리기 시작했습니다. 결국 버스를 타고 제시간에 직장에 도착했습니다. 아침이 계획대로 흘러가지는 않았지만 결국 모든 일이 잘 해결되었습니다.",
+  "expressions": [
+    {
+      "en": "be about to",
+      "ko": "막 ~하려고 하다",
+      "example": "I was about to go to bed when my phone rang."
+    },
+    {
+      "en": "on time",
+      "ko": "제시간에, 정시에",
+      "example": "We left early so we could arrive on time."
+    },
+    {
+      "en": "go as planned",
+      "ko": "계획대로 진행되다",
+      "example": "The meeting did not go as planned, so we changed the schedule."
+    },
+    {
+      "en": "work out",
+      "ko": "잘 해결되다, 잘 풀리다",
+      "example": "Don't worry too much. I'm sure things will work out."
+    }
+  ]
+}
