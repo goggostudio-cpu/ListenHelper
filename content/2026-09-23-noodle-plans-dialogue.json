@@ -1,0 +1,57 @@
+{
+  "subject": "dialogue",
+  "lines": [
+    {
+      "speaker": "A",
+      "en": "Do you have any plans after work today?",
+      "ko": "오늘 퇴근 후에 무슨 계획 있어요?"
+    },
+    {
+      "speaker": "B",
+      "en": "Not really. I was thinking about going straight home.",
+      "ko": "딱히 없어요. 바로 집에 갈까 생각하고 있었어요."
+    },
+    {
+      "speaker": "A",
+      "en": "I'm going to try the new noodle place near the station. Would you like to come with me?",
+      "ko": "저는 역 근처에 새로 생긴 국숫집에 가보려고 해요. 같이 갈래요?"
+    },
+    {
+      "speaker": "B",
+      "en": "Sure, that sounds good. What time should we meet?",
+      "ko": "좋아요, 괜찮겠네요. 몇 시에 만날까요?"
+    },
+    {
+      "speaker": "A",
+      "en": "Let's meet in front of the station at six thirty.",
+      "ko": "6시 30분에 역 앞에서 만나요."
+    },
+    {
+      "speaker": "B",
+      "en": "Perfect. I'll see you there.",
+      "ko": "좋아요. 거기서 봐요."
+    }
+  ],
+  "expressions": [
+    {
+      "en": "Not really.",
+      "ko": "딱히 없어요, 꼭 그렇지는 않아요",
+      "example": "Are you busy this weekend? Not really. I only have a few things to do."
+    },
+    {
+      "en": "go straight home",
+      "ko": "곧바로 집에 가다",
+      "example": "I was tired after the meeting, so I went straight home."
+    },
+    {
+      "en": "Would you like to come with me?",
+      "ko": "저와 같이 가실래요?",
+      "example": "I'm visiting the weekend market. Would you like to come with me?"
+    },
+    {
+      "en": "I'll see you there.",
+      "ko": "거기서 봐요",
+      "example": "The class starts at ten, so I'll see you there."
+    }
+  ]
+}
