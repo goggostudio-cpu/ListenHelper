@@ -1,0 +1,25 @@
+{
+  "en": "True growth isn't about knowing all the answers; it's about being willing to ask the hard questions and step out of your comfort zone. Every mistake is just a stepping stone to a smarter version of yourself.",
+  "ko": "진정한 성장은 모든 정답을 아는 것이 아니라, 기꺼이 어려운 질문을 던지고 익숙한 편안함에서 벗어나는 것입니다. 모든 실수는 더 현명한 자신이 되기 위한 디딤돌일 뿐입니다.",
+  "subject": "quote",
+  "expressions": [
+    {
+      "en": "be willing to",
+      "ko": "기꺼이 ~하다",
+      "example": "If you want to improve your English, you must be willing to make mistakes.",
+      "exampleKo": "영어를 향상시키고 싶다면 기꺼이 실수를 저지를 수 있어야 합니다."
+    },
+    {
+      "en": "step out of one's comfort zone",
+      "ko": "익숙하고 편안한 처지에서 벗어나다, 새로운 도전을 하다",
+      "example": "Traveling alone forced me to step out of my comfort zone and meet new people.",
+      "exampleKo": "혼자 여행하면서 나는 익숙한 곳을 벗어나 새로운 사람들을 만나야만 했다."
+    },
+    {
+      "en": "stepping stone",
+      "ko": "디딤돌, 발판",
+      "example": "This entry-level job is just a stepping stone to a better career in marketing.",
+      "exampleKo": "이 말단 직원은 마케팅 분야에서 더 나은 경력을 쌓기 위한 디딤돌일 뿐이다."
+    }
+  ]
+}

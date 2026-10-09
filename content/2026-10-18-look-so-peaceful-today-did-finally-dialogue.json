@@ -1,0 +1,71 @@
+{
+  "subject": "dialogue",
+  "lines": [
+    {
+      "speaker": "A",
+      "en": "You look so peaceful today. Did you finally take some time off?",
+      "ko": "오늘 얼굴이 정말 편안해 보여요. 드디어 휴식 좀 취한 거예요?"
+    },
+    {
+      "speaker": "B",
+      "en": "Yeah, I spent the whole weekend unplugged and just caught my breath.",
+      "ko": "네, 주말 내내 스마트폰도 거의 안 보고 숨 좀 돌렸어요."
+    },
+    {
+      "speaker": "A",
+      "en": "That sounds wonderful. I feel like we're always rushing from one task to the next.",
+      "ko": "정말 좋았겠네요. 우린 늘 다음 일로 넘어가느라 바쁘게만 사는 것 같아요."
+    },
+    {
+      "speaker": "B",
+      "en": "Exactly. Stepping back really helped me put things into perspective.",
+      "ko": "맞아요. 한 걸음 물러서서 보니까 상황을 더 넓은 시각으로 바라보게 되더라고요."
+    },
+    {
+      "speaker": "A",
+      "en": "Did it change how you feel about your busy schedule?",
+      "ko": "바쁜 일정에 대한 생각도 좀 달라졌나요?"
+    },
+    {
+      "speaker": "B",
+      "en": "A lot, actually. It made me realize that resting isn't wasted time, but a reset.",
+      "ko": "네, 꽤 많이요. 쉬는 게 시간 낭비가 아니라 재충전이라는 걸 깨달았어요."
+    },
+    {
+      "speaker": "A",
+      "en": "I should follow your lead and clear my head this weekend.",
+      "ko": "저도 이번 주말엔 그쪽처럼 머리 좀 식히며 쉬어야겠어요."
+    },
+    {
+      "speaker": "B",
+      "en": "You really should. Sometimes doing nothing is the best thing you can do.",
+      "ko": "꼭 그래 보세요. 때로는 아무것도 하지 않는 게 가장 좋은 선택일 때도 있거든요."
+    }
+  ],
+  "expressions": [
+    {
+      "en": "catch one's breath",
+      "ko": "숨을 돌리다, 한숨 돌리다",
+      "example": "Let's find a bench and catch our breath for a few minutes.",
+      "exampleKo": "벤치를 찾아서 몇 분 동안 숨 좀 돌리자."
+    },
+    {
+      "en": "put things into perspective",
+      "ko": "상황을 넓은 시각에서 바라보다, 객관적으로 보다",
+      "example": "Talking to an old friend helped put my daily worries into perspective.",
+      "exampleKo": "오랜 친구와 이야기하고 나니 일상의 고민들을 좀 더 넓은 시각으로 보게 되었어요."
+    },
+    {
+      "en": "follow someone's lead",
+      "ko": "~의 방식을 따르다, 본받다",
+      "example": "He started saving money each month, and I decided to follow his lead.",
+      "exampleKo": "그가 매달 저축을 시작해서 저도 따라서 해보기로 했어요."
+    },
+    {
+      "en": "clear one's head",
+      "ko": "머리를 식히다, 생각을 정리하다",
+      "example": "A short walk in the park always helps me clear my head after work.",
+      "exampleKo": "퇴근 후 공원에서 잠깐 걷는 건 항상 머리를 식히는 데 도움이 돼요."
+    }
+  ]
+}

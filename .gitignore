@@ -32,3 +32,10 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Local secrets (never commit the real .env)
+.env
+
+# Python
+__pycache__/
+*.pyc

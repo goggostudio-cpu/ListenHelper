@@ -1,0 +1,31 @@
+{
+  "en": "I used to think traveling was all about checking famous landmarks off my bucket list. But lately, I’ve realized that the best moments are the unexpected ones. It’s about getting lost in a quiet alleyway, trying a local dish whose name you can't even pronounce, or having a chat with a friendly stranger at a neighborhood cafe. These small, spontaneous experiences push us out of our comfort zones in the best way possible. They remind us that the world is much bigger and kinder than we often think. Every journey changes us a little bit, leaving us with stories that stay in our hearts long after the suitcases are packed away. Traveling isn't just about changing locations; it's about returning home with a slightly different perspective.",
+  "ko": "예전에는 여행이란 버킷 리스트에 있는 유명한 관광지들을 하나씩 지워나가는 것이 전부라고 생각했습니다. 하지만 최근에는 가장 멋진 순간들은 예상치 못한 순간들이라는 것을 깨닫게 되었습니다. 그것은 조용한 골목길에서 길을 잃어버리는 것, 이름조차 발음하기 힘든 현지 음식을 시도해 보는 것, 혹은 동네 카페에서 친절한 낯선 이와 이야기를 나누는 것과 같습니다. 이러한 작고 즉흥적인 경험들은 우리를 가장 좋은 방식으로 익숙하고 편안한 영역 밖으로 밀어내 줍니다. 그리고 우리가 흔히 생각하는 것보다 세상이 훨씬 더 넓고 따뜻하다는 것을 상기시켜 줍니다. 모든 여정은 우리를 조금씩 변화시키며, 여행 가방을 다 정리한 후에도 오랫동안 마음속에 남는 이야기들을 남겨줍니다. 여행은 단지 장소를 바꾸는 것만이 아닙니다. 조금은 달라진 관점을 가지고 집으로 돌아오는 것입니다.",
+  "subject": "essay",
+  "expressions": [
+    {
+      "en": "check off (one's) bucket list",
+      "ko": "버킷 리스트에서 ~을 지우다[달성하다]",
+      "example": "I was finally able to check seeing the Northern Lights off my bucket list.",
+      "exampleKo": "마침내 오로라 보기를 내 버킷 리스트에서 지울 수 있었다."
+    },
+    {
+      "en": "push someone out of one's comfort zone",
+      "ko": "~를 편안하고 익숙한 틀에서 벗어나게 하다",
+      "example": "Learning a new language really pushes you out of your comfort zone.",
+      "exampleKo": "새로운 언어를 배우는 것은 정말로 당신을 익숙한 편안함에서 벗어나 도전하게 만듭니다."
+    },
+    {
+      "en": "spontaneous",
+      "ko": "즉흥적인, 자발적인",
+      "example": "We decided to take a spontaneous road trip over the weekend.",
+      "exampleKo": "우리는 주말 동안 즉흥적인 자동차 여행을 떠나기로 결정했다."
+    },
+    {
+      "en": "stay in one's heart",
+      "ko": "마음 속에 남다",
+      "example": "Her warm words of encouragement will stay in my heart forever.",
+      "exampleKo": "그녀의 따뜻한 격려의 말은 내 마음에 영원히 남을 것이다."
+    }
+  ]
+}

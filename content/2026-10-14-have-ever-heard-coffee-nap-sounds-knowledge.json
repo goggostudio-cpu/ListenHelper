@@ -1,0 +1,31 @@
+{
+  "en": "Have you ever heard of a coffee nap? It sounds counterintuitive, but drinking a quick cup of coffee right before taking a twenty-minute nap can boost your energy more than caffeine or sleep alone. It takes about twenty minutes for caffeine to travel through your bloodstream and reach your brain. Meanwhile, resting helps naturally clear away adenosine, the chemical that makes you feel tired. When you wake up, the caffeine kicks in just as your brain is refreshed, giving you double the alertness to power through the rest of your day.",
+  "ko": "'커피 낮잠(coffee nap)'에 대해 들어보신 적이 있나요? 언뜻 모순처럼 들릴 수 있지만, 20분 정도의 짧은 낮잠을 자기 직전에 커피를 재빨리 한 잔 마시면 카페인이나 잠만 따로 취하는 것보다 에너지를 훨씬 더 많이 끌어올릴 수 있습니다. 카페인이 혈류를 타고 뇌에 도달하는 데는 약 20분이 걸립니다. 그동안 휴식을 취하면 피로감을 유발하는 화학 물질인 아데노신이 자연스럽게 해소됩니다. 잠에서 깰 때쯤이면 뇌가 상쾌해진 상태에서 카페인 효과가 나타나기 시작해, 남은 하루를 힘차게 보낼 수 있는 두 배의 각성 효과를 얻게 됩니다.",
+  "subject": "knowledge",
+  "expressions": [
+    {
+      "en": "sound counterintuitive",
+      "ko": "직관에 반하는 것처럼 들리다, 상식에 어긋나는 것 같다",
+      "example": "Taking more breaks to finish your work faster might sound counterintuitive, but it actually works.",
+      "exampleKo": "일을 더 빨리 끝내기 위해 휴식을 더 자주 취하는 것이 모순처럼 들릴 수 있지만, 실제로는 효과가 있습니다."
+    },
+    {
+      "en": "boost your energy",
+      "ko": "에너지를 북돋우다, 활력을 높이다",
+      "example": "A brisk morning walk is one of the best ways to boost your energy for the day.",
+      "exampleKo": "아침에 상쾌하게 산책하는 것은 하루의 활력을 북돋우는 가장 좋은 방법 중 하나입니다."
+    },
+    {
+      "en": "kick in",
+      "ko": "효과가 나타나기 시작하다, 효력이 발생하다",
+      "example": "I took some pain medicine an hour ago, and it is finally starting to kick in.",
+      "exampleKo": "한 시간 전에 진통제를 먹었는데, 이제야 약효가 나타나기 시작하네요."
+    },
+    {
+      "en": "power through",
+      "ko": "(힘든 일을) 꿋꿋이 해내다, 힘차게 밀고 나가다",
+      "example": "Even though she felt exhausted, she managed to power through the rest of the meeting.",
+      "exampleKo": "그녀는 무척 지쳐 있었음에도 불구하고 남은 회의를 꿋꿋하게 끝마쳤습니다."
+    }
+  ]
+}

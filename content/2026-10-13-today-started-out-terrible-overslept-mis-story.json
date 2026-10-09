@@ -1,0 +1,25 @@
+{
+  "en": "Today started out terrible. I overslept, missed my usual bus, and got soaked in a sudden downpour on my way to the office. By the time I walked into the local coffee shop, I was in a horrible mood. The barista, a young woman with a warm smile, must have noticed my dripping wet hair and exhausted face. When she handed me my hot latte, she whispered, \"Hang in there, it's almost the weekend!\" On the cup, she had drawn a tiny smiley face. It was such a small gesture, but it completely turned my day around. It made me realize how a tiny bit of kindness can completely change someone’s perspective. I decided to pay it forward by leaving a nice note for my coworker later that afternoon. Kindness really is contagious.",
+  "ko": "오늘 하루는 정말 최악으로 시작했다. 늦잠을 잤고, 평소 타던 버스를 놓쳤으며, 사무실로 가는 길에 갑작스러운 소나기를 만나 흠뻑 젖었다. 동네 커피숍에 들어섰을 때 내 기분은 엉망진창이었다. 따뜻한 미소를 지닌 젊은 여성 바리스타는 물에 젖은 내 머리와 지친 표정을 알아챈 모양이었다. 그녀는 나에게 따뜻한 라떼를 건네며 \"힘내세요, 곧 주말이잖아요!\"라고 속삭였다. 컵에는 작은 스마일 그림이 그려져 있었다. 정말 사소한 행동이었지만, 덕분에 내 하루의 기분이 완전히 바뀌었다. 아주 작은 친절이 누군가의 마음가짐을 완전히 바꿀 수 있다는 것을 깨달았다. 나도 오후 늦게 동료에게 좋은 메모를 남기며 그 친절을 베풀기로 마음먹었다. 친절은 정말 전염성이 강하다.",
+  "subject": "story",
+  "expressions": [
+    {
+      "en": "get soaked",
+      "ko": "흠뻑 젖다",
+      "example": "I forgot my umbrella and got soaked on my way home from work.",
+      "exampleKo": "우산을 깜빡해서 퇴근길에 비를 흠뻑 맞았다."
+    },
+    {
+      "en": "turn (something) around",
+      "ko": "(상황·기분 등을) 호전시키다, 바꾸다",
+      "example": "A warm cup of tea and a good book can always turn a bad day around.",
+      "exampleKo": "따뜻한 차 한 잔과 좋은 책은 언제나 우울한 하루를 기분 좋게 바꾸어 줄 수 있다."
+    },
+    {
+      "en": "pay it forward",
+      "ko": "(받은 선행을) 다음 사람에게 베풀다",
+      "example": "When the stranger paid for my coffee, I decided to pay it forward and buy lunch for my colleague.",
+      "exampleKo": "낯선 사람이 내 커피값을 대신 내주었을 때, 나도 그 호의를 베풀고자 동료에게 점심을 사기로 결심했다."
+    }
+  ]
+}

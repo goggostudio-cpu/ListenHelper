@@ -1,0 +1,31 @@
+{
+  "en": "Whenever you visit a new country, make time to explore a local morning market. In cities like Taipei or Palermo, these markets offer a genuine glimpse into daily life that fancy restaurants cannot match. Wander through the narrow aisles, observe how vendors interact with their regulars, and don't hesitate to point at unfamiliar dishes. You might discover a warm bowl of noodles or a freshly fried snack you have never seen before. Food is the easiest way to connect with local culture, and a morning market gives you the most authentic taste of it.",
+  "ko": "새로운 나라를 방문할 때마다 현지 아침 시장을 둘러볼 시간을 꼭 내보세요. 타이베이나 팔레르모 같은 도시에서 이러한 시장은 고급 식당에서는 느낄 수 없는 일상생활의 진정한 면모를 엿볼 수 있게 해 줍니다. 좁은 골목을 거닐며 상인들이 단골들과 나누는 교감을 관찰해 보고, 낯선 음식이 보인다면 주저하지 말고 가리켜 보세요. 이전에는 한 번도 본 적 없는 따뜻한 국수 한 그릇이나 갓 튀긴 간식을 발견하게 될지도 모릅니다. 음식은 현지 문화와 교감하는 가장 쉬운 방법이며, 아침 시장은 그 문화를 가장 진솔하게 맛볼 수 있는 곳입니다.",
+  "subject": "travel",
+  "expressions": [
+    {
+      "en": "make time to",
+      "ko": "~할 시간을 내다",
+      "example": "Try to make time to take a short walk after lunch every day.",
+      "exampleKo": "매일 점심 식사 후 가볍게 산책할 시간을 내보세요."
+    },
+    {
+      "en": "a glimpse into",
+      "ko": "~을 엿봄, ~을 들여다보는 기회",
+      "example": "The documentary offers an intimate glimpse into the lives of traditional fishermen.",
+      "exampleKo": "그 다큐멘터리는 전통 어부들의 삶을 가까이서 엿볼 수 있는 기회를 제공합니다."
+    },
+    {
+      "en": "interact with",
+      "ko": "~와 소통하다, 교류하다",
+      "example": "Traveling solo often forces you to interact with people around you.",
+      "exampleKo": "혼자 여행을 하면 주변 사람들과 더 자주 교류하게 됩니다."
+    },
+    {
+      "en": "don't hesitate to",
+      "ko": "망설이지 말고 ~하다",
+      "example": "Don't hesitate to ask your server for food recommendations.",
+      "exampleKo": "음식 추천이 필요하다면 망설이지 말고 직원에게 물어보세요."
+    }
+  ]
+}

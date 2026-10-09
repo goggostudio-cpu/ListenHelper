@@ -1,0 +1,31 @@
+{
+  "en": "During the weekly marketing sync, Clara asked for a quick update on the product launch timeline. Mark mentioned that while the creative team finalized the designs, the development team was running a bit behind schedule. Instead of pointing fingers, Clara suggested having a brief touchpoint with the engineering lead to clear up any bottlenecks. She emphasized the importance of keeping everyone on the same page before the client presentation next Tuesday. Mark agreed to follow up by email this afternoon with an adjusted schedule, ensuring the stakeholders remained informed without raising unnecessary alarm.",
+  "ko": "주간 마케팅 회의에서 클라라는 제품 출시 일정에 대한 간단한 현황 공유를 요청했습니다. 마크는 디자인 팀이 시안을 마무리했지만 개발팀 일정이 조금 지연되고 있다고 말했습니다. 클라라는 누구의 탓을 하기보다는 엔지니어링 팀장과 간단히 미팅을 갖고 병목 현상을 해결하자고 제안했습니다. 그녀는 다음 주 화요일 고객사 발표 전에 모든 팀원이 동일한 내용을 숙지하는 것이 중요하다고 강조했습니다. 마크는 불필요한 혼선을 주지 않으면서 이해관계자들에게 상황을 전달할 수 있도록, 오늘 오후에 조정된 일정을 이메일로 후속 공유하기로 했습니다.",
+  "subject": "business",
+  "expressions": [
+    {
+      "en": "run behind schedule",
+      "ko": "일정이 뒤처지다, 지연되다",
+      "example": "We had to work overtime because the project was running behind schedule.",
+      "exampleKo": "프로젝트 일정이 지연되고 있어서 우리는 야근을 해야 했습니다."
+    },
+    {
+      "en": "clear up bottlenecks",
+      "ko": "병목 현상(정체 구간)을 해소하다",
+      "example": "Let's review the approval process to clear up any bottlenecks.",
+      "exampleKo": "승인 과정에서 발생하는 병목 현상을 해결하기 위해 절차를 검토해 봅시다."
+    },
+    {
+      "en": "on the same page",
+      "ko": "같은 이해[생각]를 공유하는",
+      "example": "Before we begin the campaign, I want to make sure everyone is on the same page.",
+      "exampleKo": "캠페인을 시작하기 전에 모두가 같은 방향으로 이해하고 있는지 확인하고 싶습니다."
+    },
+    {
+      "en": "follow up",
+      "ko": "후속 조치를 취하다, 추가로 연락하다",
+      "example": "I will follow up with the client tomorrow to confirm the contract details.",
+      "exampleKo": "계약 세부 사항을 확인하기 위해 내일 고객사 측에 추가로 연락하겠습니다."
+    }
+  ]
+}
