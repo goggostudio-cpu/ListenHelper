@@ -1,0 +1,31 @@
+{
+  "en": "Real growth rarely happens when you stay in your comfort zone. True learning means being willing to make clumsy mistakes, reflect on them, and show up again tomorrow a little wiser.",
+  "ko": "진정한 성장은 익숙하고 편안한 곳에만 머물러 있을 때는 거의 일어나지 않습니다. 참된 배움이란 어설픈 실수를 기꺼이 겪어내고, 그것을 돌아보며, 내일 조금 더 현명해진 모습으로 다시 마주하는 것입니다.",
+  "subject": "quote",
+  "expressions": [
+    {
+      "en": "stay in one's comfort zone",
+      "ko": "익숙하고 편안한 영역에 머무르다",
+      "example": "You won't discover your true potential if you only stay in your comfort zone.",
+      "exampleKo": "편안한 영역에만 머문다면 자신의 진정한 잠재력을 발견할 수 없을 거예요."
+    },
+    {
+      "en": "be willing to",
+      "ko": "기꺼이 ~하다",
+      "example": "Great leaders are always willing to listen to different perspectives.",
+      "exampleKo": "훌륭한 리더는 항상 다양한 관점의 의견을 기꺼이 듣고자 합니다."
+    },
+    {
+      "en": "reflect on",
+      "ko": "~을 되돌아보다, 반추하다",
+      "example": "Take some time this weekend to reflect on what went well this month.",
+      "exampleKo": "이번 주말에는 이번 달에 잘 풀렸던 일들을 되돌아보는 시간을 가져보세요."
+    },
+    {
+      "en": "show up",
+      "ko": "(포기하지 않고) 자리를 지키다, 나타나다",
+      "example": "Half the battle in learning a language is simply showing up every day.",
+      "exampleKo": "언어를 배울 때 절반의 성공은 단순히 매일 꾸준히 책상 앞에 앉는 것입니다."
+    }
+  ]
+}
