@@ -1,0 +1,71 @@
+{
+  "subject": "dialogue",
+  "lines": [
+    {
+      "speaker": "A",
+      "en": "How was your solo trip to Portugal? Was it everything you hoped for?",
+      "ko": "포르투갈 혼자 다녀온 여행은 어땠어? 기대했던 만큼 좋았어?"
+    },
+    {
+      "speaker": "B",
+      "en": "It was incredible! I completely stepped out of my comfort zone and tried surfing for the first time.",
+      "ko": "진짜 최고였어! 익숙한 틀에서 완전히 벗어나서 난생처음 서핑도 배워봤잖아."
+    },
+    {
+      "speaker": "A",
+      "en": "Wow, surfing? Weren't you terrified of the huge waves?",
+      "ko": "와, 서핑을? 큰 파도가 무섭지는 않았어?"
+    },
+    {
+      "speaker": "B",
+      "en": "At first, yes, but catching that first wave gave me such a huge rush.",
+      "ko": "처음엔 겁났는데, 첫 파도를 딱 타는 순간 엄청난 전율이 느껴지더라고."
+    },
+    {
+      "speaker": "A",
+      "en": "That sounds exhilarating. Did you get a chance to connect with any locals?",
+      "ko": "정말 짜릿했겠다. 현지인들과 어울릴 기회도 있었어?"
+    },
+    {
+      "speaker": "B",
+      "en": "Definitely. I took a cooking workshop and ended up sharing dinner with a local family.",
+      "ko": "그럼, 당연하지. 쿠킹 클래스를 들었는데, 결국 현지인 가족이랑 같이 저녁까지 먹게 됐어."
+    },
+    {
+      "speaker": "A",
+      "en": "That must have been an unforgettable memory.",
+      "ko": "정말 평생 잊지 못할 추억이 됐겠다."
+    },
+    {
+      "speaker": "B",
+      "en": "It really was. It totally changed my perspective on traveling alone.",
+      "ko": "정말 그랬어. 혼자 여행하는 것에 대한 내 생각을 완전히 바꿔놓았어."
+    }
+  ],
+  "expressions": [
+    {
+      "en": "step out of one's comfort zone",
+      "ko": "익숙하고 편안한 틀에서 벗어나다",
+      "example": "Traveling to a foreign country forces you to step out of your comfort zone.",
+      "exampleKo": "외국으로 여행을 떠나면 익숙하고 편한 영역에서 벗어날 수밖에 없다."
+    },
+    {
+      "en": "give someone a rush",
+      "ko": "~에게 짜릿한 전율이나 흥분을 주다",
+      "example": "Bungee jumping was scary, but it gave me an incredible rush.",
+      "exampleKo": "번지점프는 무서웠지만 정말 엄청난 짜릿함을 주었다."
+    },
+    {
+      "en": "end up -ing",
+      "ko": "결국 ~하게 되다",
+      "example": "We missed the last bus and ended up walking back to the hotel.",
+      "exampleKo": "막차를 놓쳐서 결국 호텔까지 걸어가게 되었다."
+    },
+    {
+      "en": "change one's perspective",
+      "ko": "~의 시각이나 관점을 바꾸다",
+      "example": "Meeting people from different cultures completely changed my perspective on life.",
+      "exampleKo": "다양한 문화권의 사람들을 만나면서 삶에 대한 내 시각이 완전히 바뀌었다."
+    }
+  ]
+}

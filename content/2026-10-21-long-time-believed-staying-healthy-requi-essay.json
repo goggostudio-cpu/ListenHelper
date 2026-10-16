@@ -1,0 +1,31 @@
+{
+  "en": "For a long time, I believed that staying healthy required dramatic changes, like intense workouts or strict diets. But lately, I’ve realized that real wellness comes from the quiet, ordinary choices we make every day. Tonight, as I wind down, I am thinking about the simple 20-minute walk I took after dinner. Breathing in the cool evening air cleared my head and helped me let go of the day's stress. Health isn't just about losing weight or building muscle; it’s about listening to your body and being kind to yourself. A glass of water in the morning, a few deep breaths during a busy afternoon, or turning off the screen an hour before bed—these small rituals slowly reshape our lives. Tomorrow is another chance to take care of myself, one small step at a time.",
+  "ko": "오랫동안 저는 건강을 지키려면 격렬한 운동이나 엄격한 식단 같은 극적인 변화가 필요하다고 믿었습니다. 하지만 최근 들어, 진정한 건강은 우리가 매일 하는 조용하고 평범한 선택에서 나온다는 것을 깨달았습니다. 오늘 밤 하루를 마무리하며, 저녁 식사 후 했던 20분간의 소박한 산책을 떠올려 봅니다. 시원한 저녁 공기를 들이마시니 머리가 맑아지고 하루 동안 쌓인 스트레스를 내려놓을 수 있었습니다. 건강이란 단순히 살을 빼거나 근육을 만드는 것만이 아니라, 자신의 몸에 귀를 기울이고 스스로에게 다정해지는 것입니다. 아침에 마시는 물 한 잔, 바쁜 오후에 내쉬는 몇 번의 깊은 호흡, 혹은 잠들기 한 시간 전에 화면을 끄는 것—이런 작은 습관들이 서서히 우리의 삶을 변화시킵니다. 내일은 한 걸음씩 차근차근 나 자신을 돌볼 수 있는 또 한 번의 기회입니다.",
+  "subject": "essay",
+  "expressions": [
+    {
+      "en": "wind down",
+      "ko": "긴장을 풀다, 하루를 마무리하다",
+      "example": "I like to read a chapter of a book to wind down before going to sleep.",
+      "exampleKo": "나는 잠자리에 들기 전 하루를 차분히 마무리하기 위해 책 한 챕터를 읽는 것을 좋아한다."
+    },
+    {
+      "en": "clear one's head",
+      "ko": "머리를 식히다, 생각을 정리하다",
+      "example": "Whenever I feel stuck on a problem, a short walk helps clear my head.",
+      "exampleKo": "문제에 부딪혀 막힐 때마다 짧은 산책이 머리를 식히는 데 도움이 된다."
+    },
+    {
+      "en": "let go of",
+      "ko": "~을 내려놓다, 털어버리다",
+      "example": "It is important to let go of things you cannot control and focus on the present.",
+      "exampleKo": "통제할 수 없는 일들은 내려놓고 현재에 집중하는 것이 중요하다."
+    },
+    {
+      "en": "one small step at a time",
+      "ko": "한 걸음씩 차근차근",
+      "example": "Don't try to change everything overnight; build your new habit one small step at a time.",
+      "exampleKo": "하룻밤 사이에 모든 것을 바꾸려 하지 말고, 한 걸음씩 차근차근 새로운 습관을 만들어 가세요."
+    }
+  ]
+}

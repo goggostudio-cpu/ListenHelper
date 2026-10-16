@@ -1,0 +1,25 @@
+{
+  "en": "Taking a workcation in a quiet coastal town can boost your productivity, but clear communication is essential. Before you leave, set expectations with your team regarding your availability. Because you might be in a different time zone or exploring during the afternoon, let colleagues know when you will be online to reply to urgent messages. It is also wise to test the Wi-Fi speed at your accommodation right after check-in. By balancing focused work sessions with leisure, you can keep your projects on track while enjoying a refreshing change of scenery.",
+  "ko": "조용한 해변 마을로 워케이션을 떠나는 것은 생산성을 높여줄 수 있지만, 명확한 소통이 필수적입니다. 떠나기 전에 팀원들과 업무 가능 시간에 대해 미리 조율해 두세요. 시차가 있거나 오후에 주변을 둘러볼 수도 있으므로, 긴급 메시지에 언제 답장할 수 있는지 동료들에게 알려주는 것이 좋습니다. 또한 체크인 직후 숙소의 와이파이 속도를 점검하는 것도 현명한 방법입니다. 집중 근무 시간과 휴식을 잘 조율하면, 기분 전환을 만끽하면서도 업무를 차질 없이 진행할 수 있습니다.",
+  "subject": "travel",
+  "expressions": [
+    {
+      "en": "set expectations",
+      "ko": "기대치나 기준을 정하다, 미리 조율하다",
+      "example": "A good project manager knows how to set expectations clearly from day one.",
+      "exampleKo": "유능한 프로젝트 관리자는 첫날부터 기준을 명확하게 조율할 줄 안다."
+    },
+    {
+      "en": "keep ~ on track",
+      "ko": "~을 차질 없이[순조롭게] 진행하다",
+      "example": "Short weekly meetings help keep our launch plans on track.",
+      "exampleKo": "매주 짧은 회의를 열면 출시 계획을 차질 없이 진행하는 데 도움이 된다."
+    },
+    {
+      "en": "a change of scenery",
+      "ko": "기분 전환, 환경의 변화",
+      "example": "After working from home for months, I booked a weekend cabin for a change of scenery.",
+      "exampleKo": "몇 달 동안 재택근무를 한 뒤, 기분 전환을 위해 주말 오두막 숙소를 예약했다."
+    }
+  ]
+}

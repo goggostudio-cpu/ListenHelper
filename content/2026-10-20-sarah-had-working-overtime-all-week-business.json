@@ -1,0 +1,31 @@
+{
+  "en": "Sarah had been working overtime all week to prepare the quarterly sales pitch. By Thursday afternoon, she was feeling completely overwhelmed. Noticing this, her colleague Daniel stopped by her desk with a hot cup of coffee and a brief sticky note that read, \"You've got this.\" He also offered to proofread her presentation slides before the big client meeting tomorrow. That small gesture gave Sarah the boost of energy she desperately needed. She realized that maintaining a supportive team environment doesn't always take grand actions; simple everyday thoughtfulness can completely turn someone's day around and boost workplace morale.",
+  "ko": "사라는 분기별 영업 프레젠테이션을 준비하느라 일주일 내내 야근을 하고 있었습니다. 목요일 오후가 되자 그녀는 완전히 지쳐 있었습니다. 이를 눈치챈 동료 다니엘이 따뜻한 커피 한 잔과 \"넌 할 수 있어\"라고 적힌 짧은 메모를 들고 그녀의 자리에 들렀습니다. 그는 또한 내일 있을 중요한 고객 미팅 전에 발표 슬라이드를 검토해 주겠다고 제안했습니다. 그 작은 배려 덕분에 사라는 절실히 필요했던 힘을 얻을 수 있었습니다. 그녀는 서로를 지지해 주는 팀 분위기를 만드는 데 거창한 행동이 늘 필요한 것은 아니며, 일상 속 작은 배려만으로도 누군가의 하루를 완전히 바꾸고 사기를 북돋울 수 있음을 깨달았습니다.",
+  "subject": "business",
+  "expressions": [
+    {
+      "en": "stop by",
+      "ko": "(잠깐) 들르다",
+      "example": "I'll stop by your office later this afternoon to hand over the revised contract.",
+      "exampleKo": "수정된 계약서를 건네드리러 오늘 오후 늦게 사무실에 들를게요."
+    },
+    {
+      "en": "give someone a boost",
+      "ko": "~에게 힘을 주다, 활력을 북돋우다",
+      "example": "A quick walk during lunch gave me the boost of energy I needed to finish the report.",
+      "exampleKo": "점심시간의 짧은 산책 덕분에 보고서를 마무리하는 데 필요한 활력을 얻었습니다."
+    },
+    {
+      "en": "proofread",
+      "ko": "(글, 문서 등을) 교정하다, 검토하다",
+      "example": "Could you proofread this proposal before I send it over to the management team?",
+      "exampleKo": "경영진에 전달하기 전에 이 기획서 한번 검토해 주실 수 있나요?"
+    },
+    {
+      "en": "turn someone's day around",
+      "ko": "~의 하루(기분)를 완전히 바꾸어 놓다",
+      "example": "His unexpected compliment really helped turn my stressful day around.",
+      "exampleKo": "그의 뜻밖의 칭찬 덕분에 스트레스 받던 하루의 기분이 완전히 좋아졌습니다."
+    }
+  ]
+}
