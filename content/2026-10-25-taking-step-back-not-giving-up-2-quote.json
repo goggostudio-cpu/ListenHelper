@@ -1,0 +1,31 @@
+{
+  "en": "Taking a step back is not giving up; it is giving your mind the space it needs to catch its breath. When you slow down and look within, you find the clarity that constant rushing could never give you.",
+  "ko": "한 걸음 물러서는 것은 포기가 아닙니다. 마음이 숨을 고를 수 있도록 필요한 여유를 주는 것일 뿐이죠. 속도를 늦추고 내면을 들여다볼 때, 끊임없이 내달릴 때는 결코 얻을 수 없었던 명확함을 찾게 됩니다.",
+  "subject": "quote",
+  "expressions": [
+    {
+      "en": "take a step back",
+      "ko": "한 걸음 물러서다, 잠시 거리를 두고 생각하다",
+      "example": "Sometimes you need to take a step back from a problem to see the solution.",
+      "exampleKo": "때로는 해결책을 보기 위해 문제에서 한 걸음 물러설 필요가 있다."
+    },
+    {
+      "en": "catch one's breath",
+      "ko": "숨을 고르다, 한숨 돌리다",
+      "example": "Let's stop here for a few minutes and catch our breath before continuing the hike.",
+      "exampleKo": "등산을 계속하기 전에 여기서 몇 분 동안 숨 좀 돌리고 가자."
+    },
+    {
+      "en": "slow down",
+      "ko": "속도를 늦추다, 여유를 갖다",
+      "example": "You've been under a lot of stress lately, so you really should slow down this weekend.",
+      "exampleKo": "너 요즘 스트레스를 많이 받았으니 이번 주말에는 정말 여유를 좀 가져야 해."
+    },
+    {
+      "en": "look within",
+      "ko": "내면을 들여다보다, 스스로를 돌아보다",
+      "example": "True peace comes when you stop looking for approval from others and look within.",
+      "exampleKo": "진정한 평화는 타인의 인정을 구하는 것을 멈추고 내면을 들여다볼 때 찾아온다."
+    }
+  ]
+}
