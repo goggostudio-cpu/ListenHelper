@@ -1,0 +1,25 @@
+{
+  "en": "A gentle word or a warm smile costs nothing, but it has the power to turn someone's entire day around. We often wait for grand moments to show care, forgetting that the smallest gestures often leave the deepest impression.",
+  "ko": "다정한 말 한마디나 따뜻한 미소는 돈이 들지 않지만, 누군가의 하루를 완전히 바꿔 놓는 힘이 있습니다. 우리는 마음을 표현하기 위해 거창한 순간만을 기다리곤 하지만, 사실 가장 작은 배려가 가장 깊은 인상을 남기기도 합니다.",
+  "subject": "quote",
+  "expressions": [
+    {
+      "en": "cost nothing",
+      "ko": "돈이 전혀 들지 않다, 수고로울 것이 없다",
+      "example": "A simple thank-you costs nothing, but it means a lot to others.",
+      "exampleKo": "간단한 감사 인사는 돈이 드는 것도 아니지만, 상대방에게는 큰 의미가 된다."
+    },
+    {
+      "en": "turn someone's day around",
+      "ko": "누군가의 안 좋았던 하루를 기분 좋게 바꾸다",
+      "example": "Getting an encouraging text completely turned my day around.",
+      "exampleKo": "응원의 문자를 받고 나니 우울했던 하루 기분이 완전히 바뀌었다."
+    },
+    {
+      "en": "leave a deep impression",
+      "ko": "깊은 인상을 남기다",
+      "example": "Her thoughtful advice left a deep impression on all of us.",
+      "exampleKo": "그녀의 사려 깊은 조언은 우리 모두에게 깊은 인상을 남겼다."
+    }
+  ]
+}
