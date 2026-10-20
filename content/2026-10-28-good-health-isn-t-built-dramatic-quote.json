@@ -1,0 +1,37 @@
+{
+  "en": "Good health isn't built on dramatic changes, but on the quiet choices you make every single day. Taking a short walk, drinking enough water, and going to bed on time add up to a stronger mind and body over time.",
+  "ko": "건강은 극적인 변화로 만들어지는 것이 아니라, 매일 조용히 내리는 선택들로 완성됩니다. 짧은 산책을 하고, 충분한 물을 마시며, 제시간에 잠자리에 드는 습관들이 모여 시간이 흐를수록 더 튼튼한 몸과 마음을 만듭니다.",
+  "subject": "quote",
+  "expressions": [
+    {
+      "en": "be built on",
+      "ko": "~을 바탕으로 만들어지다",
+      "example": "A lasting friendship is built on mutual respect and honesty.",
+      "exampleKo": "오래가는 우정은 상호 존중과 정직을 바탕으로 만들어집니다."
+    },
+    {
+      "en": "every single day",
+      "ko": "매일매일, 하루도 빠짐없이",
+      "example": "She makes time to read for twenty minutes every single day.",
+      "exampleKo": "그녀는 하루도 빠짐없이 매일 20분씩 독서할 시간을 냅니다."
+    },
+    {
+      "en": "go to bed on time",
+      "ko": "제시간에 잠자리에 들다",
+      "example": "It is much easier to wake up early when you go to bed on time.",
+      "exampleKo": "제시간에 잠자리에 들면 아침에 일찍 일어나는 것이 훨씬 수월합니다."
+    },
+    {
+      "en": "add up to",
+      "ko": "모여서 ~이 되다, 결국 ~을 이루다",
+      "example": "Saving just five dollars a day will add up to a lot of money by the end of the year.",
+      "exampleKo": "하루에 5달러씩만 아껴도 연말에는 꽤 큰돈이 됩니다."
+    },
+    {
+      "en": "over time",
+      "ko": "시간이 흐르면서, 서서히",
+      "example": "Small daily habits can change your life completely over time.",
+      "exampleKo": "매일의 작은 습관들이 시간이 흐르면서 당신의 삶을 완전히 바꿀 수 있습니다."
+    }
+  ]
+}
