@@ -1,0 +1,61 @@
+{
+  "subject": "dialogue",
+  "lines": [
+    {
+      "speaker": "A",
+      "en": "Have you ever tried Ethiopian food? We eat it with our hands using this spongy flatbread called injera.",
+      "ko": "에티오피아 음식 먹어본 적 있어? 인제라라는 푹신한 납작빵을 써서 손으로 먹거든."
+    },
+    {
+      "speaker": "B",
+      "en": "Really? No utensils at all? That sounds like a whole different dining experience.",
+      "ko": "정말? 식기를 전혀 안 써? 완전 색다른 식사 경험이겠는데."
+    },
+    {
+      "speaker": "A",
+      "en": "Yeah, sharing one big platter with everyone at the table is a huge part of the culture.",
+      "ko": "응, 한 테이블에서 다 같이 큰 접시 하나를 나눠 먹는 게 그 문화에서 정말 중요한 부분이래."
+    },
+    {
+      "speaker": "B",
+      "en": "That reminds me of how we share side dishes back home. Food really brings people together.",
+      "ko": "우리나라에서 반찬 나눠 먹는 거 생각난다. 음식은 정말 사람들을 하나로 모아주는 것 같아."
+    },
+    {
+      "speaker": "A",
+      "en": "It definitely does. Want to check out an authentic place downtown with me tonight?",
+      "ko": "맞아, 진짜 그렇지. 오늘 저녁에 나랑 시내에 있는 정통 식당 한번 가볼래?"
+    },
+    {
+      "speaker": "B",
+      "en": "Count me in! I'm always open to trying new dishes and learning about other cultures.",
+      "ko": "나도 낄래! 새로운 음식을 맛보고 다른 문화를 배우는 건 언제나 대환영이지."
+    }
+  ],
+  "expressions": [
+    {
+      "en": "a whole different",
+      "ko": "완전히 다른, 색다른",
+      "example": "Studying abroad turned out to be a whole different experience from what I had expected.",
+      "exampleKo": "유학 생활은 내가 예상했던 것과는 완전히 다른 경험이었다."
+    },
+    {
+      "en": "bring people together",
+      "ko": "~을 하나로 모으다, 유대감을 형성하다",
+      "example": "Sports have a wonderful way of bringing people together across borders.",
+      "exampleKo": "스포츠는 국경을 넘어 사람들을 하나로 모으는 멋진 힘이 있다."
+    },
+    {
+      "en": "check out",
+      "ko": "~을 확인하다, (장소에) 가보다",
+      "example": "Let's check out that new rooftop café around the corner after work.",
+      "exampleKo": "퇴근하고 모퉁이에 새로 생긴 루프탑 카페 한번 가보자."
+    },
+    {
+      "en": "count me in",
+      "ko": "나도 끼워줘, 나도 갈래",
+      "example": "If you guys are planning a road trip this weekend, count me in!",
+      "exampleKo": "이번 주말에 자동차 여행 갈 계획이라면 나도 꼭 끼워줘!"
+    }
+  ]
+}

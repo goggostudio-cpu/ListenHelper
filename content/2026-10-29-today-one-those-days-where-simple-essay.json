@@ -1,0 +1,31 @@
+{
+  "en": "Today was one of those days where a simple miscommunication slowed everything down. A project got delayed because two teams assumed they were on the same page, but neither took the time to confirm the details. Sitting at my desk tonight, I realized that good communication at work isn't about sending endless emails or sounding overly professional. It is really about having the courage to speak up when something feels unclear, and being patient enough to listen without interrupting. We often rush through conversations just to get things done quickly, yet taking an extra minute to clarify expectations can save hours of frustration later. Tomorrow, instead of assuming, I'll make a point to ask one more question.",
+  "ko": "오늘은 사소한 소통 오류로 모든 일이 지체되었던 그런 하루였습니다. 두 팀 모두 서로 생각이 같다고 짐작했지만, 세부 사항을 확인하는 시간을 갖지 않아 프로젝트가 늦어지고 말았죠. 오늘 밤 책상에 앉아 생각해보니, 직장에서의 좋은 소통이란 끝없는 이메일을 보내거나 지나치게 격식을 차리는 게 아니라는 걸 깨달았습니다. 소통의 본질은 애매한 부분이 있을 때 용기를 내어 질문하고, 상대방의 말을 끊지 않고 경청할 줄 아는 여유를 갖는 것입니다. 우리는 일을 빨리 끝내려고 대화를 서두르곤 하지만, 기대치를 명확히 하기 위해 1분을 더 투자하는 것이 나중에 겪을 수 시간의 답답함을 덜어줄 수 있습니다. 내일은 지레짐작하는 대신, 한 번 더 질문해 보려 합니다.",
+  "subject": "essay",
+  "expressions": [
+    {
+      "en": "on the same page",
+      "ko": "이해하고 있는 바가 같은, 의견이 일치하는",
+      "example": "Before we start the presentation, let's meet briefly to make sure we're on the same page.",
+      "exampleKo": "발표를 시작하기 전에, 우리가 같은 생각을 하고 있는지 확인하기 위해 잠깐 모입시다."
+    },
+    {
+      "en": "speak up",
+      "ko": "의견을 말하다, 터놓고 이야기하다",
+      "example": "Don't hesitate to speak up if you notice any problems with the new schedule.",
+      "exampleKo": "새 일정에 문제가 발견되면 주저하지 말고 말씀해 주세요."
+    },
+    {
+      "en": "clarify expectations",
+      "ko": "기대치(원하는 바)를 명확히 하다",
+      "example": "The manager held a short meeting to clarify expectations for the new role.",
+      "exampleKo": "팀장님은 새로운 역할에 대한 기대치를 명확히 하기 위해 짧은 미팅을 열었습니다."
+    },
+    {
+      "en": "make a point to",
+      "ko": "반드시 ~하다, 의식적으로 ~하다",
+      "example": "I make a point to take a short walk after lunch every single day.",
+      "exampleKo": "저는 매일 점심 식사 후 꼭 잠깐이라도 산책을 하려고 합니다."
+    }
+  ]
+}
