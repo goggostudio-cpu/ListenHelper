@@ -1,0 +1,71 @@
+{
+  "subject": "dialogue",
+  "lines": [
+    {
+      "speaker": "A",
+      "en": "You look full of energy today! Did something good happen?",
+      "ko": "오늘따라 활기차 보이네! 무슨 좋은 일 있어?"
+    },
+    {
+      "speaker": "B",
+      "en": "Not really, I just started cutting back on late-night snacks.",
+      "ko": "특별한 건 없고, 그냥 야식 먹는 걸 줄이기 시작했거든."
+    },
+    {
+      "speaker": "A",
+      "en": "Seriously? That sounds so hard. How long has it been?",
+      "ko": "진짜? 그거 진짜 어렵잖아. 시작한 지 얼마나 됐어?"
+    },
+    {
+      "speaker": "B",
+      "en": "About two weeks. I wake up feeling so much lighter now.",
+      "ko": "한 2주 됐나? 요즘 아침에 일어날 때 몸이 훨씬 가벼워."
+    },
+    {
+      "speaker": "A",
+      "en": "I should really try that. I always crave something salty around midnight.",
+      "ko": "나도 꼭 해봐야겠다. 난 자정쯤만 되면 꼭 짭짤한 게 당기더라고."
+    },
+    {
+      "speaker": "B",
+      "en": "Replacing snacks with herbal tea worked wonders for me.",
+      "ko": "야식 대신 따뜻한 허브티를 마신 게 나한테는 정말 큰 효과가 있었어."
+    },
+    {
+      "speaker": "A",
+      "en": "That's a great tip. I'm going to give it a shot tonight.",
+      "ko": "좋은 팁이다. 나도 오늘 밤에 당장 한번 해봐야겠어."
+    },
+    {
+      "speaker": "B",
+      "en": "Let me know how it goes! Consistency is key.",
+      "ko": "어땠는지 나중에 알려줘! 뭐든 꾸준히 하는 게 핵심이니까."
+    }
+  ],
+  "expressions": [
+    {
+      "en": "cut back on",
+      "ko": "~을 줄이다",
+      "example": "I'm trying to cut back on caffeine to sleep better at night.",
+      "exampleKo": "밤에 잠을 더 잘 자려고 카페인을 줄이려고 노력 중이에요."
+    },
+    {
+      "en": "work wonders",
+      "ko": "엄청난 효과가 있다, 큰 도움이 되다",
+      "example": "Taking a short walk after lunch worked wonders for my digestion.",
+      "exampleKo": "점심 먹고 가볍게 산책한 게 소화에 정말 큰 도움이 됐어요."
+    },
+    {
+      "en": "give it a shot",
+      "ko": "한번 시도해 보다",
+      "example": "If you're curious about pilates, you should give it a shot.",
+      "exampleKo": "필라테스에 관심이 있다면 한번 도전해 보세요."
+    },
+    {
+      "en": "consistency is key",
+      "ko": "꾸준함이 핵심이다",
+      "example": "When forming a new habit, consistency is key.",
+      "exampleKo": "새로운 습관을 들일 때는 꾸준함이 가장 중요합니다."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "en": "During my first solo trip to a small coastal town in Portugal, I got completely turned around while searching for my guesthouse. My phone battery was dead, and rain began to pour. Standing under a small bakery awning, the elderly baker noticed my confused look. Instead of ignoring me, she invited me inside, handed me a warm pastry, and drew a simple map on a paper napkin. She did not speak any English, but her warm smile made me feel safe. When traveling, big sights are memorable, but it is often these small acts of kindness that truly stay with you forever.",
+  "ko": "포르투갈의 작은 해안 마을로 첫 나홀로 여행을 떠났을 때, 게스트하우스를 찾다가 완전히 길을 잃고 말았습니다. 휴대폰 배터리는 방전되었고 비까지 쏟아지기 시작했죠. 어느 작은 빵집 차양 아래 서 있는데, 연세가 지긋한 제빵사분이 당황한 제 표정을 알아채셨습니다. 그분은 저를 모른 척하는 대신 안으로 들어오라 손짓하며 따뜻한 빵을 건네주셨고, 종이 냅킨에 간단한 약도를 그려주셨습니다. 영어를 전혀 하지 못하셨지만, 그분의 따뜻한 미소 덕분에 마음이 놓였습니다. 여행할 때 웅장한 명소도 기억에 남지만, 가슴속에 오래도록 남는 것은 종종 이런 작은 친절의 손길입니다.",
+  "subject": "travel",
+  "expressions": [
+    {
+      "en": "get turned around",
+      "ko": "길을 잃다, 방향을 헷갈리다",
+      "example": "I got completely turned around inside the massive train station and almost missed my ride.",
+      "exampleKo": "거대한 기차역 안에서 완전히 방향을 잃어 기차를 거의 놓칠 뻔했습니다."
+    },
+    {
+      "en": "begin to pour",
+      "ko": "(비가) 억수같이 쏟아지기 시작하다",
+      "example": "We packed up our picnic and dashed to the car just as it began to pour.",
+      "exampleKo": "비가 쏟아지기 시작하자 우리는 소풍 짐을 챙겨 차로 급히 뛰어갔습니다."
+    },
+    {
+      "en": "stay with someone",
+      "ko": "~의 기억이나 마음에 깊이 남다",
+      "example": "The encouraging words from the local guide will stay with me for years to come.",
+      "exampleKo": "현지 가이드가 건넨 따뜻한 격려의 말은 앞으로도 오랫동안 제 마음에 남을 것입니다."
+    }
+  ]
+}

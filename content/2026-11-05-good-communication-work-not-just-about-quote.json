@@ -1,0 +1,25 @@
+{
+  "en": "Good communication at work is not just about sharing updates; it is about making sure everyone is on the same page. When people listen actively and speak with clarity, even the most complex projects run smoothly.",
+  "ko": "직장에서의 좋은 소통은 단순히 업데이트를 공유하는 것에 그치지 않고, 팀원 모두가 같은 방향을 바라보게 만드는 것입니다. 서로 적극적으로 경청하고 명확하게 이야기할 때 아무리 복잡한 프로젝트라도 순조롭게 진행됩니다.",
+  "subject": "quote",
+  "expressions": [
+    {
+      "en": "on the same page",
+      "ko": "이해가 일치하는, 같은 생각인",
+      "example": "Let's have a brief meeting before the client arrives to make sure we're on the same page.",
+      "exampleKo": "고객이 도착하기 전에 우리가 같은 생각인지 확인하기 위해 짧게 회의합시다."
+    },
+    {
+      "en": "listen actively",
+      "ko": "적극적으로 경청하다",
+      "example": "Managers can build stronger trust with their teams simply by listening actively during one-on-one chats.",
+      "exampleKo": "관리자들은 일대일 면담 때 적극적으로 경청하는 것만으로도 팀원들과 더 깊은 신뢰를 쌓을 수 있습니다."
+    },
+    {
+      "en": "run smoothly",
+      "ko": "순조롭게 진행되다",
+      "example": "Thanks to thorough preparation, the entire product launch ran smoothly without any major issues.",
+      "exampleKo": "철저한 준비 덕분에 신제품 출시 전체가 큰 문제 없이 순조롭게 진행되었습니다."
+    }
+  ]
+}
