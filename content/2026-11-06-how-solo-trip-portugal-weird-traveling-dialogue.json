@@ -1,0 +1,61 @@
+{
+  "subject": "dialogue",
+  "lines": [
+    {
+      "speaker": "A",
+      "en": "How was your solo trip to Portugal? Was it weird traveling all by yourself?",
+      "ko": "포르투갈 혼자 다녀온 여행은 어땠어? 혼자 여행하는 게 어색하진 않았어?"
+    },
+    {
+      "speaker": "B",
+      "en": "Honestly, it pushed me out of my comfort zone, but I loved every minute of it.",
+      "ko": "솔직히 낯선 도전에 부딪혀야 했지만, 매 순간이 정말 뜻깊고 좋았어."
+    },
+    {
+      "speaker": "A",
+      "en": "Did you get a chance to meet any locals while you were there?",
+      "ko": "거기 있는 동안 현지인들을 만날 기회도 있었어?"
+    },
+    {
+      "speaker": "B",
+      "en": "Yeah, I signed up for a small cooking class in Porto and made some great friends.",
+      "ko": "응, 포르투에서 작은 쿠킹 클래스를 신청해서 들었는데 좋은 친구들을 많이 사귀었어."
+    },
+    {
+      "speaker": "A",
+      "en": "That sounds amazing! I usually stick to tourist spots whenever I travel.",
+      "ko": "진짜 좋았겠다! 난 여행 갈 때마다 보통 뻔한 관광지만 다니거든."
+    },
+    {
+      "speaker": "B",
+      "en": "You should take a leap next time. Trying new things really makes the trip memorable.",
+      "ko": "다음엔 너도 용기 내서 한번 시도해 봐. 새로운 걸 경험해 봐야 여행이 훨씬 오래 기억에 남더라고."
+    }
+  ],
+  "expressions": [
+    {
+      "en": "push someone out of one's comfort zone",
+      "ko": "~를 익숙한 안전지대에서 벗어나 도전하게 하다",
+      "example": "Living in a foreign country definitely pushed me out of my comfort zone.",
+      "exampleKo": "외국에서 생활하는 건 확실히 내 안전지대를 벗어나 새로운 도전을 하게 만들었어."
+    },
+    {
+      "en": "sign up for",
+      "ko": "~을 신청하다, 등록하다",
+      "example": "I decided to sign up for a weekend surfing lesson while at the beach.",
+      "exampleKo": "해변에 머무는 동안 주말 서핑 강습을 신청하기로 했어."
+    },
+    {
+      "en": "stick to",
+      "ko": "~을 고수하다, ~만 계속하다",
+      "example": "Instead of sticking to familiar foods, try some local street food.",
+      "exampleKo": "익숙한 음식만 고집하지 말고, 현지 길거리 음식도 한번 먹어봐."
+    },
+    {
+      "en": "take a leap",
+      "ko": "과감히 시도하다, 큰마음 먹고 도전하다",
+      "example": "It was scary to travel alone, but I'm glad I took the leap.",
+      "exampleKo": "혼자 여행하는 게 무서웠지만 과감하게 도전하길 잘했어."
+    }
+  ]
+}

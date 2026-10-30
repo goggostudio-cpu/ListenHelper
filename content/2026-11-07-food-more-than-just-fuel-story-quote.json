@@ -1,0 +1,31 @@
+{
+  "en": "Food is more than just fuel; it is a story passed down through generations. When we sit down to enjoy a traditional meal, we are not just tasting ingredients—we are embracing someone's heritage.",
+  "ko": "음식은 단순한 영양 공급원 그 이상이며, 여러 세대를 거쳐 전해 내려오는 이야기입니다. 우리가 전통 음식을 즐기려 식탁에 마주 앉을 때, 우리는 단지 재료를 맛보는 것이 아니라 누군가의 문화적 유산을 온전히 받아들이는 것입니다.",
+  "subject": "quote",
+  "expressions": [
+    {
+      "en": "more than just",
+      "ko": "단순한 ~ 이상인",
+      "example": "A sincere apology is more than just saying sorry; it requires genuine change.",
+      "exampleKo": "진심 어린 사과는 단순히 미안하다고 말하는 것 이상이며, 진정한 변화가 필요합니다."
+    },
+    {
+      "en": "pass down",
+      "ko": "(후대에) 물려주다, 전수하다",
+      "example": "This secret family recipe was passed down from my great-grandmother.",
+      "exampleKo": "이 비밀 가족 요리법은 저의 증조할머니로부터 전해 내려왔습니다."
+    },
+    {
+      "en": "sit down to",
+      "ko": "(식사 등을) 하려고 자리에 앉다",
+      "example": "It is rare for our whole family to sit down to dinner together on weekdays.",
+      "exampleKo": "평일에 우리 온 가족이 함께 모여 앉아 저녁을 먹는 일은 드뭅니다."
+    },
+    {
+      "en": "embrace heritage",
+      "ko": "문화적 유산이나 전통을 받아들이다",
+      "example": "The festival encourages local youth to embrace their cultural heritage.",
+      "exampleKo": "그 축제는 지역 청소년들이 자신들의 문화적 유산을 자랑스럽게 받아들이도록 북돋웁니다."
+    }
+  ]
+}
