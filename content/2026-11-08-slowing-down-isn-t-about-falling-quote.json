@@ -1,0 +1,25 @@
+{
+  "en": "Slowing down isn't about falling behind; it's about giving your mind the quiet space it needs to reset. When you pause to reflect on your journey, you return with clearer eyes and a lighter heart.",
+  "ko": "속도를 늦추는 것은 뒤처지는 것이 아니라, 마음에 재충전할 고요한 여유를 주는 것입니다. 잠시 멈춰 서서 자신이 걸어온 길을 돌아볼 때, 더 맑은 시선과 한결 가벼운 마음으로 다시 나아갈 수 있습니다.",
+  "subject": "quote",
+  "expressions": [
+    {
+      "en": "slow down",
+      "ko": "속도를 늦추다, 여유를 갖다",
+      "example": "Sometimes you need to slow down to avoid burning out at work.",
+      "exampleKo": "직장에서 번아웃을 피하려면 때로는 속도를 늦출 필요가 있습니다."
+    },
+    {
+      "en": "fall behind",
+      "ko": "뒤처지다",
+      "example": "Don't worry about falling behind your peers; everyone moves at their own pace.",
+      "exampleKo": "동료들보다 뒤처지는 것에 대해 걱정하지 마세요. 누구나 자신만의 속도가 있습니다."
+    },
+    {
+      "en": "pause to reflect",
+      "ko": "잠시 멈추어 되돌아보다",
+      "example": "Before making a final decision, take a moment to pause to reflect on your options.",
+      "exampleKo": "최종 결정을 내리기 전에 잠시 멈추어 선택지들을 되돌아보는 시간을 가지세요."
+    }
+  ]
+}
