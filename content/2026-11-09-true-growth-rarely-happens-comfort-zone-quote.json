@@ -1,0 +1,31 @@
+{
+  "en": "True growth rarely happens in your comfort zone. When you embrace small mistakes as valuable feedback rather than failures, every challenge becomes a stepping stone toward a better version of yourself.",
+  "ko": "진정한 성장은 익숙하고 편안한 영역에서는 거의 일어나지 않습니다. 작은 실수를 실패가 아닌 귀중한 피드백으로 받아들일 때, 모든 도전은 더 나은 자신을 향해 나아가는 디딤돌이 됩니다.",
+  "subject": "quote",
+  "expressions": [
+    {
+      "en": "comfort zone",
+      "ko": "편안한 영역, 익숙한 환경",
+      "example": "To improve your speaking skills, you have to step out of your comfort zone.",
+      "exampleKo": "말하기 실력을 늘리려면 익숙하고 편안한 영역에서 벗어나야 합니다."
+    },
+    {
+      "en": "embrace mistakes",
+      "ko": "실수를 열린 마음으로 받아들이다",
+      "example": "Great leaders encourage their team members to embrace mistakes and learn from them.",
+      "exampleKo": "훌륭한 리더는 팀원들이 실수를 열린 마음으로 받아들이고 그로부터 배울 수 있도록 격려합니다."
+    },
+    {
+      "en": "stepping stone",
+      "ko": "디딤돌, 발판",
+      "example": "She considered this internship a stepping stone to her dream career.",
+      "exampleKo": "그녀는 이번 인턴십을 꿈꾸는 커리어로 가기 위한 디딤돌로 생각했습니다."
+    },
+    {
+      "en": "a better version of yourself",
+      "ko": "더 나은 자신의 모습",
+      "example": "Focus on becoming a better version of yourself instead of comparing yourself to others.",
+      "exampleKo": "다른 사람과 비교하기보다는 더 나은 자신이 되는 것에 집중하세요."
+    }
+  ]
+}
