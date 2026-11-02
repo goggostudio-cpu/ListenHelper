@@ -1,0 +1,31 @@
+{
+  "en": "Kindness does not require grand gestures or a lot of time. Sometimes, holding the door open or sharing a warm smile is all it takes to brighten someone's day. Small acts often leave the deepest impressions.",
+  "ko": "친절은 거창한 행동이나 많은 시간을 필요로 하지 않습니다. 때로는 문을 잡아주거나 따뜻한 미소를 건네는 것만으로도 누군가의 하루를 환하게 밝히기에 충분합니다. 사소한 행동이 종종 가장 깊은 인상을 남기곤 합니다.",
+  "subject": "quote",
+  "expressions": [
+    {
+      "en": "grand gestures",
+      "ko": "거창한 행동이나 표현",
+      "example": "You don't need grand gestures to show someone that you truly care.",
+      "exampleKo": "누군가를 진심으로 아낀다는 것을 보여주기 위해 거창한 행동을 할 필요는 없습니다."
+    },
+    {
+      "en": "all it takes",
+      "ko": "필요한 전부, ~하기만 하면 되는 것",
+      "example": "A sincere apology is usually all it takes to resolve a small conflict.",
+      "exampleKo": "작은 갈등을 해결하는 데는 대개 진심 어린 사과 한마디면 충분합니다."
+    },
+    {
+      "en": "brighten someone's day",
+      "ko": "누군가의 하루를 기분 좋게 만들다",
+      "example": "Getting an unexpected message from an old friend really brightened my day.",
+      "exampleKo": "오랜 친구에게서 뜻밖의 메시지를 받고 하루 종일 기분이 정말 좋았습니다."
+    },
+    {
+      "en": "leave an impression",
+      "ko": "인상을 남기다",
+      "example": "Her polite attitude during the interview left a lasting impression on the team.",
+      "exampleKo": "면접 중 그녀의 정중한 태도는 팀원들에게 깊은 인상을 남겼습니다."
+    }
+  ]
+}
