@@ -1,0 +1,66 @@
+{
+  "subject": "dialogue",
+  "lines": [
+    {
+      "speaker": "A",
+      "en": "You look full of energy today! Did you finally start that new morning routine?",
+      "ko": "오늘 컨디션 정말 좋아 보이네요! 드디어 그 새 아침 루틴 시작하신 거예요?"
+    },
+    {
+      "speaker": "B",
+      "en": "Yeah, I've been cutting back on late-night snacks and drinking way more water.",
+      "ko": "네, 야식 끊고 물을 훨씬 더 많이 챙겨 마시기 시작했거든요."
+    },
+    {
+      "speaker": "A",
+      "en": "That's great. I've been meaning to do that, but I can never seem to stick to it.",
+      "ko": "잘하셨네요. 저도 그러려고 생각은 늘 하는데, 꾸준히 지키기가 참 힘들더라고요."
+    },
+    {
+      "speaker": "B",
+      "en": "Honestly, taking baby steps really made a huge difference for me.",
+      "ko": "솔직히 말씀드리면, 아주 작은 것부터 차근차근 시작한 게 큰 도움이 됐어요."
+    },
+    {
+      "speaker": "A",
+      "en": "What kind of small changes did you make?",
+      "ko": "어떤 작은 변화부터 시작하셨는데요?"
+    },
+    {
+      "speaker": "B",
+      "en": "Just walking for twenty minutes after dinner. It helps me wind down before bed.",
+      "ko": "그냥 저녁 먹고 20분 정도 산책하는 거요. 자기 전에 긴장 푸는 데 참 좋더라고요."
+    },
+    {
+      "speaker": "A",
+      "en": "That sounds totally doable. I think I'll give it a try tonight!",
+      "ko": "그 정도면 저도 충분히 할 수 있겠네요. 오늘 밤에 당장 한번 해봐야겠어요!"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "cut back on",
+      "ko": "~을 줄이다",
+      "example": "I'm trying to cut back on coffee because it makes me jittery.",
+      "exampleKo": "커피를 마시면 가슴이 두근거려서 줄이려고 노력 중이에요."
+    },
+    {
+      "en": "stick to",
+      "ko": "~을 꾸준히 지키다, 지속하다",
+      "example": "It's tough to stick to a diet when you eat out often.",
+      "exampleKo": "외식을 자주 하다 보면 식단을 꾸준히 지키기가 어렵죠."
+    },
+    {
+      "en": "wind down",
+      "ko": "긴장을 풀다, 휴식을 취하다",
+      "example": "Listening to soft music is my favorite way to wind down after work.",
+      "exampleKo": "퇴근 후에는 잔잔한 음악을 듣는 게 긴장을 푸는 데 제일 좋아요."
+    },
+    {
+      "en": "give it a try",
+      "ko": "한번 시도해 보다",
+      "example": "Even if you're nervous, you should give it a try.",
+      "exampleKo": "긴장되더라도 한번 시도해 보세요."
+    }
+  ]
+}

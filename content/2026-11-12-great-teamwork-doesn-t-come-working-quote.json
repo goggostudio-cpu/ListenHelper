@@ -1,0 +1,31 @@
+{
+  "en": "Great teamwork doesn't come from working in silence; it thrives when people stay on the same page. When we take the time to listen actively and speak up with clarity, even the toughest projects run smoothly.",
+  "ko": "훌륭한 팀워크는 묵묵히 일하기만 해서 생기는 것이 아니라, 서로 같은 생각을 공유할 때 꽃을 피웁니다. 시간을 내어 적극적으로 귀 기울이고 명확하게 의견을 전할 때, 아무리 까다로운 프로젝트도 순조롭게 풀립니다.",
+  "subject": "quote",
+  "expressions": [
+    {
+      "en": "stay on the same page",
+      "ko": "의견을 일치시키다, 같은 이해를 공유하다",
+      "example": "Let's have a quick sync-up to make sure we stay on the same page.",
+      "exampleKo": "우리 모두 같은 생각을 공유하고 있는지 확인하기 위해 간단히 회의합시다."
+    },
+    {
+      "en": "take the time to",
+      "ko": "시간을 내어 ~하다",
+      "example": "My manager always takes the time to explain the rationale behind big decisions.",
+      "exampleKo": "우리 팀장님은 중요한 결정 뒤에 숨은 이유를 시간을 내어 설명해 주신다."
+    },
+    {
+      "en": "speak up",
+      "ko": "목소리를 내다, 솔직하게 의견을 말하다",
+      "example": "Please feel free to speak up if you have concerns about the deadline.",
+      "exampleKo": "마감 기한에 대해 우려되는 점이 있다면 주저 말고 말씀해 주세요."
+    },
+    {
+      "en": "run smoothly",
+      "ko": "원활하게 진행되다, 순조롭게 굴러가다",
+      "example": "Thanks to thorough preparation, the entire presentation ran smoothly.",
+      "exampleKo": "철저한 준비 덕분에 전체 발표가 순조롭게 진행되었다."
+    }
+  ]
+}
