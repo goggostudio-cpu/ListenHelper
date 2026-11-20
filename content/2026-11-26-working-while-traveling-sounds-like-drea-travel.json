@@ -1,0 +1,31 @@
+{
+  "en": "Working while traveling sounds like a dream, but staying connected requires extra effort. During my recent trip to Lisbon, I quickly learned that reliable Wi-Fi isn't enough; clear communication is key. Because my team was back home in a different time zone, I made a point of updating them at the start and end of every day. Instead of juggling messages while sightseeing, I set specific office hours at a local coworking café. That way, my colleagues knew exactly when to expect a response, and I could genuinely disconnect and explore the city without feeling guilty.",
+  "ko": "여행하면서 일하는 것은 꿈만 같아 보이지만, 원활한 연락을 유지하려면 각별한 노력이 필요합니다. 최근 리스본 여행에서 저는 안정적인 와이파이만으로는 부족하며, 명확한 소통이 핵심이라는 점을 금방 깨달았습니다. 팀원들이 시차가 다른 한국에 있었기 때문에, 저는 매일 일과의 시작과 끝에 진행 상황을 공유하는 데 신경 썼습니다. 관광 중에 정신없이 메시지를 주고받는 대신, 현지 코워킹 카페에서 정해진 업무 시간을 정해 두었죠. 그렇게 하니 동료들은 언제 답장을 받을 수 있을지 정확히 알 수 있었고, 저 역시 죄책감 없이 온전히 일에서 벗어나 도시를 둘러볼 수 있었습니다.",
+  "subject": "travel",
+  "expressions": [
+    {
+      "en": "is key",
+      "ko": "핵심이다, 가장 중요하다",
+      "example": "Active listening is key to resolving misunderstandings with international clients.",
+      "exampleKo": "적극적으로 경청하는 태도는 해외 고객과의 오해를 푸는 데 핵심입니다."
+    },
+    {
+      "en": "make a point of",
+      "ko": "반드시 ~하다, 각별히 신경 써서 ~하다",
+      "example": "She makes a point of sending a summary email after every team meeting.",
+      "exampleKo": "그녀는 팀 회의가 끝난 후 항상 요약 이메일을 챙겨서 보냅니다."
+    },
+    {
+      "en": "juggle",
+      "ko": "(여러 일을) 동시에 병행하다, 아슬아슬하게 처리하다",
+      "example": "It is exhausting to juggle urgent client calls while navigating an unfamiliar subway system.",
+      "exampleKo": "낯선 지하철을 타면서 급한 고객 전화를 동시에 처리하는 것은 무척 진 빠지는 일입니다."
+    },
+    {
+      "en": "disconnect",
+      "ko": "(업무나 온라인 기기에서 벗어나) 휴식을 취하다, 접속을 끊다",
+      "example": "Try to disconnect completely during your evening walk to refresh your mind.",
+      "exampleKo": "머리를 식히기 위해 저녁 산책을 하는 동안에는 완전히 일에서 벗어나 보세요."
+    }
+  ]
+}

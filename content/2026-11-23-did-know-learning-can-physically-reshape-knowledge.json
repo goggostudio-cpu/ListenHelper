@@ -1,0 +1,25 @@
+{
+  "en": "Did you know that learning can physically reshape your brain? To become a licensed taxi driver in London, applicants must memorize over twenty-five thousand streets and thousands of landmarks, a test known as \"The Knowledge.\" Scientists scanned the brains of drivers who passed this grueling test and discovered something incredible: the hippocampus, the part of the brain responsible for memory and navigation, was significantly larger than that of the average person. This proves that no matter your age, dedicated practice can literally build new brain structures.",
+  "ko": "배움이 뇌의 물리적인 형태를 실제로 바꿀 수 있다는 사실을 알고 계셨나요? 런던에서 공인 택시 기사가 되려면 지원자들은 '더 놀리지(The Knowledge)'로 알려진 시험을 치르며 2만 5천 개가 넘는 도로와 수천 개의 주요 건물을 외워야 합니다. 과학자들이 이 혹독한 시험을 통과한 기사들의 뇌를 촬영한 결과 놀라운 사실을 발견했습니다. 기억과 공간 지각을 담당하는 부위인 해마가 일반인보다 훨씬 더 컸던 것입니다. 이는 나이에 상관없이 꾸준한 연습을 통해 실제로 뇌 구조를 변화시킬 수 있음을 증명합니다.",
+  "subject": "knowledge",
+  "expressions": [
+    {
+      "en": "responsible for",
+      "ko": "~을 담당하는, 책임지는",
+      "example": "She is responsible for organizing the annual workshop.",
+      "exampleKo": "그녀는 연례 워크숍을 기획하는 일을 담당하고 있습니다."
+    },
+    {
+      "en": "no matter",
+      "ko": "~에 상관없이",
+      "example": "You can always pick up a new hobby, no matter your schedule.",
+      "exampleKo": "일정에 상관없이 언제든 새로운 취미를 시작할 수 있습니다."
+    },
+    {
+      "en": "dedicated practice",
+      "ko": "집중적이고 꾸준한 연습",
+      "example": "Mastering the piano requires years of dedicated practice.",
+      "exampleKo": "피아노를 마스터하려면 수년간의 꾸준한 연습이 필요합니다."
+    }
+  ]
+}

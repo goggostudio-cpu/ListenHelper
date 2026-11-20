@@ -1,0 +1,31 @@
+{
+  "en": "Sharing a home-cooked meal is the fastest way to understand where someone comes from. Every bite tells a story of tradition, connecting people across borders without needing a single word.",
+  "ko": "집밥을 함께 나누는 것은 그 사람이 어떤 배경에서 살아왔는지 이해하는 가장 빠른 방법입니다. 한 입 한 입마다 전통의 이야기가 담겨 있어, 말 한마디 없이도 국경을 넘어 사람들을 이어 줍니다.",
+  "subject": "quote",
+  "expressions": [
+    {
+      "en": "home-cooked meal",
+      "ko": "집밥, 집에서 만든 식사",
+      "example": "Nothing beats a warm home-cooked meal after a long, exhausting trip.",
+      "exampleKo": "길고 지친 여행 끝에는 따뜻한 집밥만 한 게 없습니다."
+    },
+    {
+      "en": "where someone comes from",
+      "ko": "누군가의 출신 배경, 뿌리",
+      "example": "Her unique artwork clearly reflects where she comes from.",
+      "exampleKo": "그녀의 독특한 예술 작품에는 그녀의 출신 배경이 고스란히 반영되어 있습니다."
+    },
+    {
+      "en": "tell a story",
+      "ko": "이야기를 들려주다, 사연을 담고 있다",
+      "example": "The old photographs on the wall each tell a story of our family.",
+      "exampleKo": "벽에 걸린 오래된 사진들은 저마다 우리 가족의 사연을 담고 있습니다."
+    },
+    {
+      "en": "across borders",
+      "ko": "국경을 넘어",
+      "example": "Good music has the unique power to unite fans across borders.",
+      "exampleKo": "좋은 음악은 국경을 넘어 팬들을 하나로 묶는 특별한 힘이 있습니다."
+    }
+  ]
+}

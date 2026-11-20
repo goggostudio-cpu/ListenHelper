@@ -1,0 +1,31 @@
+{
+  "en": "During a hectic product launch week, Clara noticed that David was overwhelmed with client emails. Instead of ignoring it, she brought him his favorite iced latte and quietly offered to take over the afternoon status updates. \"You've been carrying a heavy workload lately,\" she said with a warm smile. \"Let me take something off your plate.\" David breathed a sigh of relief and thanked her sincerely. Later that week, Clara received a brief note from their team lead praising her initiative. Clara’s small gesture didn’t just boost David’s morale; it created a ripple effect, encouraging the whole team to look out for one another.",
+  "ko": "정신없이 바쁜 제품 출시 주간에 클라라는 데이비드가 쏟아지는 고객 이메일로 버거워하는 것을 알아차렸습니다. 클라라는 이를 모른 척 지나치지 않고, 그가 가장 좋아하는 아이스 라테를 가져다주며 오후 현황 보고 업무를 대신 맡아주겠다고 조용히 제안했습니다. \"요즘 업무 부담이 너무 큰 것 같아서요. 제가 일 좀 덜어드릴게요.\" 클라라가 따뜻한 미소를 지으며 말했습니다. 데이비드는 안도의 한숨을 내쉬며 진심으로 감사를 표했습니다. 그 주 후반, 클라라는 팀장으로부터 솔선수범을 칭찬하는 짧은 쪽지를 받았습니다. 클라라의 작은 배려는 데이비드의 사기를 북돋웠을 뿐만 아니라, 팀 전체가 서로를 챙기도록 만드는 긍정적인 파급 효과를 일으켰습니다.",
+  "subject": "business",
+  "expressions": [
+    {
+      "en": "take over",
+      "ko": "(업무 등을) 인계받다, 대신 맡다",
+      "example": "Can you take over the presentation while I take this urgent client call?",
+      "exampleKo": "제가 급한 고객 전화를 받는 동안 발표 좀 대신 진행해 줄 수 있나요?"
+    },
+    {
+      "en": "take something off someone's plate",
+      "ko": "~의 업무 부담이나 일손을 덜어주다",
+      "example": "I'll handle the weekly report to take something off your plate before the audit.",
+      "exampleKo": "감사 전에 당신의 일손을 덜어주기 위해 주간 보고서는 제가 처리할게요."
+    },
+    {
+      "en": "breathe a sigh of relief",
+      "ko": "안도의 한숨을 내쉬다",
+      "example": "The project manager breathed a sigh of relief after the contract was signed.",
+      "exampleKo": "프로젝트 매니저는 계약이 체결되자 안도의 한숨을 내쉬었습니다."
+    },
+    {
+      "en": "ripple effect",
+      "ko": "파급 효과, 연쇄 반응",
+      "example": "A single act of appreciation can create a positive ripple effect across the department.",
+      "exampleKo": "작은 감사의 표현 하나가 부서 전체에 긍정적인 파급 효과를 만들어 낼 수 있습니다."
+    }
+  ]
+}

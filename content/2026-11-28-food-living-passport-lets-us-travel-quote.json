@@ -1,0 +1,25 @@
+{
+  "en": "Food is a living passport that lets us travel through history without leaving the dinner table. When we share traditional dishes, we are not just filling our plates; we are tasting the stories and memories passed down through generations.",
+  "ko": "음식은 식탁을 떠나지 않고도 역사를 여행할 수 있게 해 주는 살아 있는 여권입니다. 전통 음식을 나눌 때 우리는 단순히 접시를 채우는 것이 아니라, 여러 세대를 거쳐 전해 내려온 이야기와 추억을 맛보는 것입니다.",
+  "subject": "quote",
+  "expressions": [
+    {
+      "en": "without leaving",
+      "ko": "~을 떠나지 않고, 벗어나지 않고",
+      "example": "You can explore world-famous art galleries online without leaving your room.",
+      "exampleKo": "방을 떠나지 않고도 온라인으로 세계적인 미술관들을 둘러볼 수 있습니다."
+    },
+    {
+      "en": "share a dish",
+      "ko": "음식을 함께 나누어 먹다",
+      "example": "Sharing a home-cooked dish is one of the quickest ways to break the ice with new neighbors.",
+      "exampleKo": "직접 만든 음식을 나누어 먹는 것은 새 이웃과 어색함을 깨는 가장 빠른 방법 중 하나입니다."
+    },
+    {
+      "en": "pass down through generations",
+      "ko": "대대로 전해 내려오다",
+      "example": "This handmade ceramic bowl has been passed down through generations in my family.",
+      "exampleKo": "이 수제 도자기 그릇은 우리 가문에서 대대로 전해 내려온 것입니다."
+    }
+  ]
+}

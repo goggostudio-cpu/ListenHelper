@@ -1,0 +1,72 @@
+{
+  "subject": "dialogue",
+  "lines": [
+    {
+      "speaker": "A",
+      "en": "Have you ever traveled completely solo, or do you always go with friends?",
+      "ko": "혼자서만 여행 가본 적 있어, 아니면 항상 친구들이랑 가?"
+    },
+    {
+      "speaker": "B",
+      "en": "I went to Portugal by myself last fall, and it totally pushed me out of my comfort zone.",
+      "ko": "작년 가을에 혼자 포르투갈에 다녀왔는데, 정말 익숙한 틀을 깨는 경험이었어."
+    },
+    {
+      "speaker": "A",
+      "en": "Really? Wasn't it intimidating eating out or getting around alone?",
+      "ko": "진짜? 혼자 밥 먹거나 돌아다니는 거 부담스럽거나 무섭지 않았어?"
+    },
+    {
+      "speaker": "B",
+      "en": "A bit at first, but taking a local cooking class helped me break the ice with other travelers.",
+      "ko": "처음엔 좀 그랬는데, 현지 쿠킹 클래스를 들으면서 다른 여행자들과 금방 친해졌어."
+    },
+    {
+      "speaker": "A",
+      "en": "That sounds amazing. I usually stick to the beaten path when I'm abroad.",
+      "ko": "정말 좋다. 난 해외 가면 보통 남들 다 가는 관광지만 다니거든."
+    },
+    {
+      "speaker": "B",
+      "en": "You should give it a shot. It really changes your perspective on traveling.",
+      "ko": "너도 한번 도전해 봐. 여행을 바라보는 시선이 완전히 달라져."
+    },
+    {
+      "speaker": "A",
+      "en": "Maybe I will. I definitely feel like I need a change of pace.",
+      "ko": "한번 그래볼까 봐. 요즘 확실히 기분 전환이 필요하긴 해."
+    }
+  ],
+  "expressions": [
+    {
+      "en": "push someone out of one's comfort zone",
+      "ko": "새로운 도전을 하게 만들다, 안주하던 틀에서 벗어나게 하다",
+      "example": "Moving to a new city alone really pushed me out of my comfort zone.",
+      "exampleKo": "혼자 새로운 도시로 이사하면서 익숙한 안전지대에서 벗어나 도전하게 되었다."
+    },
+    {
+      "en": "break the ice",
+      "ko": "어색한 분위기를 풀다, 서먹함을 없애다",
+      "example": "He told a funny joke at the meeting to break the ice.",
+      "exampleKo": "그는 서먹한 분위기를 풀기 위해 회의에서 재미있는 농담을 던졌다."
+    },
+    {
+      "en": "stick to the beaten path",
+      "ko": "남들이 다 가는 뻔한 경로를 따르다",
+      "example": "Instead of sticking to the beaten path, we explored small coastal villages.",
+      "exampleKo": "우리는 뻔한 관광지만 다니는 대신 작은 해안 마을들을 탐방했다."
+    },
+    {
+      "en": "give it a shot",
+      "ko": "한번 시도해 보다, 도전해 보다",
+      "example": "I've never tried scuba diving before, but I'm ready to give it a shot.",
+      "exampleKo": "스쿠버다이빙을 한 번도 안 해봤지만, 도전해 볼 준비가 됐어."
+    },
+    {
+      "en": "a change of pace",
+      "ko": "기분 전환, 일상의 변화",
+      "example": "A weekend trip to the mountains was the perfect change of pace.",
+      "exampleKo": "주말 산행은 완벽한 기분 전환이 되었다."
+    }
+  ]
+}

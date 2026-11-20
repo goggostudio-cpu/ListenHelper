@@ -1,0 +1,31 @@
+{
+  "en": "Tonight, as I wash the dishes and wind down, I realize that being healthy isn't about dramatic lifestyle changes. For years, I believed I had to hit the gym every day and eat perfectly to make a difference. But lately, I’ve found peace in the small things: drinking a warm glass of water right after waking up, taking ten minutes to stretch away the stiffness from sitting at a desk, and choosing to walk home under the evening sky. These quiet moments don't look impressive on paper, yet they keep me grounded. Taking care of myself doesn't feel like a chore anymore; it has become a gentle promise I make to my future self. Tomorrow will bring its own challenges, but for tonight, these tiny habits are enough.",
+  "ko": "오늘 밤, 설거지를 마치고 하루를 마무리하며 건강이란 게 거창한 생활 습관의 변화에서 오는 건 아니라는 생각이 들었습니다. 수년 동안 저는 매일 헬스장에 가고 완벽한 식단을 챙겨 먹어야만 변화가 생길 거라 믿었거든요. 하지만 요즘은 소소한 것들에서 편안함을 느낍니다. 아침에 눈뜨자마자 따뜻한 물 한 잔을 마시고, 온종일 책상에 앉아 굳은 몸을 10분간 스트레칭으로 풀어주며, 저녁 하늘 아래 걸어서 퇴근하는 일 같은 것들이죠. 겉보기엔 대단치 않아 보여도, 이런 조용한 순간들이 제 마음을 차분하게 붙잡아 줍니다. 이제 나를 돌보는 일은 더 이상 숙제처럼 느껴지지 않고, 미래의 나에게 건네는 따뜻한 약속이 되었습니다. 내일은 또 다른 고민이 찾아오겠지만, 오늘 밤만큼은 이 작은 습관들만으로도 충분합니다.",
+  "subject": "essay",
+  "expressions": [
+    {
+      "en": "wind down",
+      "ko": "긴장을 풀다, 하루를 마무리하다",
+      "example": "I usually listen to soft music to wind down before going to sleep.",
+      "exampleKo": "나는 보통 잠들기 전에 긴장을 풀기 위해 부드러운 음악을 듣는다."
+    },
+    {
+      "en": "on paper",
+      "ko": "겉보기에는, 이론상으로는",
+      "example": "The workout routine looked easy on paper, but it was surprisingly tough.",
+      "exampleKo": "그 운동 루틴은 겉보기엔 쉬워 보였지만 생각보다 훨씬 힘들었다."
+    },
+    {
+      "en": "keep someone grounded",
+      "ko": "~의 마음을 차분하게 하다, 중심을 잡아주다",
+      "example": "Morning walks help keep me grounded when work gets overwhelming.",
+      "exampleKo": "업무가 벅차게 느껴질 때 아침 산책은 마음의 중심을 잡는 데 도움이 된다."
+    },
+    {
+      "en": "feel like a chore",
+      "ko": "귀찮은 일(숙제)처럼 느껴지다",
+      "example": "Learning a new language shouldn't feel like a chore; it should be fun.",
+      "exampleKo": "새로운 언어를 배우는 것은 지루한 숙제처럼 느껴져선 안 되며, 즐거워야 한다."
+    }
+  ]
+}

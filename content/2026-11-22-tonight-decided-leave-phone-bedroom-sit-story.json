@@ -1,0 +1,31 @@
+{
+  "en": "Tonight, I decided to leave my phone in the bedroom and sit on the balcony with a warm cup of herbal tea. For the past few weeks, I had been running on empty, constantly chasing deadlines and answering messages. As the evening breeze cooled down the room, I finally let out a long sigh that I didn’t know I had been holding. Looking at the quiet street below, I realized how much I needed this pause. We often treat rest as something we have to earn, but tonight reminded me that doing nothing is just as productive. Stepping away from the noise gave my mind the space it needed to breathe. Tomorrow can wait; tonight is purely for me to recharge.",
+  "ko": "오늘 밤에는 휴대폰을 침실에 두고 따뜻한 허브차 한 잔을 들고 발코니에 앉아보기로 했다. 지난 몇 주 동안 마감에 쫓기고 메시지에 답하느라 에너지가 완전히 바닥나 있었기 때문이다. 저녁 바람이 방 안을 식혀줄 때, 나는 나도 모르게 참고 있었던 깊은 한숨을 마침내 내쉬었다. 조용한 거리를 내려다보며 내가 이런 휴식을 얼마나 필요로 했는지 깨달았다. 우리는 종종 휴식을 노력해서 얻어내야 하는 보상처럼 여기곤 하지만, 오늘 밤은 아무것도 하지 않는 것 역시 그만큼 생산적인 일이라는 걸 일깨워 주었다. 번잡한 소음에서 한 발짝 벗어나자 마음에 숨 쉴 틈이 생겼다. 내일 일은 내일로 미뤄도 괜찮다. 오늘 밤은 오롯이 나를 재충전하는 시간이다.",
+  "subject": "story",
+  "expressions": [
+    {
+      "en": "run on empty",
+      "ko": "에너지가 바닥나다, 녹초가 된 상태로 버티다",
+      "example": "After working late all week, she was clearly running on empty.",
+      "exampleKo": "일주일 내내 야근한 탓에 그녀는 분명 완전히 녹초가 된 상태였다."
+    },
+    {
+      "en": "let out a sigh",
+      "ko": "한숨을 내쉬다",
+      "example": "He sat on the park bench and let out a sigh of relief.",
+      "exampleKo": "그는 공원 벤치에 앉아 안도의 한숨을 내쉬었다."
+    },
+    {
+      "en": "step away from",
+      "ko": "~에서 잠시 벗어나다, 거리를 두다",
+      "example": "It helps to step away from your screen every couple of hours.",
+      "exampleKo": "두세 시간마다 화면에서 잠시 벗어나는 것이 도움이 된다."
+    },
+    {
+      "en": "space to breathe",
+      "ko": "숨 쉴 틈, 마음의 여유",
+      "example": "A short weekend trip gave me the space to breathe after a hectic month.",
+      "exampleKo": "정신없이 바빴던 한 달 뒤에 떠난 짧은 주말여행은 내게 숨 쉴 틈을 주었다."
+    }
+  ]
+}
