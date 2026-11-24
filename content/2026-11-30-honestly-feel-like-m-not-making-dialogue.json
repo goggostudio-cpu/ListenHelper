@@ -1,0 +1,61 @@
+{
+  "subject": "dialogue",
+  "lines": [
+    {
+      "speaker": "A",
+      "en": "I honestly feel like I'm not making any progress with this course.",
+      "ko": "솔직히 이 강의를 들으면서 실력이 전혀 늘지 않는 기분이야."
+    },
+    {
+      "speaker": "B",
+      "en": "Don't be so hard on yourself; everyone hits a plateau at some point.",
+      "ko": "스스로를 너무 몰아세우지 마. 누구에게나 정체기는 오는 법이잖아."
+    },
+    {
+      "speaker": "A",
+      "en": "I know, but making constant mistakes really tests my patience.",
+      "ko": "알아, 하지만 계속 실수만 반복하니까 정말 인내심의 한계가 느껴져."
+    },
+    {
+      "speaker": "B",
+      "en": "Think of it this way: every mistake you fix is a step forward.",
+      "ko": "이렇게 생각해 봐. 실수를 하나씩 고쳐갈 때마다 한 걸음씩 나아가는 거라고."
+    },
+    {
+      "speaker": "A",
+      "en": "That's true. I guess I've been too focused on the end result.",
+      "ko": "맞는 말이야. 내가 너무 최종 결과에만 집착했나 봐."
+    },
+    {
+      "speaker": "B",
+      "en": "Exactly. Real growth takes time, so try to embrace the learning process.",
+      "ko": "바로 그거야. 진정한 성장은 시간이 걸리니, 배우는 과정 자체를 자연스럽게 받아들여 봐."
+    }
+  ],
+  "expressions": [
+    {
+      "en": "make progress",
+      "ko": "진전을 보이다, 발전하다",
+      "example": "We are slowly making progress on our team project.",
+      "exampleKo": "우리 팀 프로젝트는 서서히 진전을 보이고 있다."
+    },
+    {
+      "en": "be hard on oneself",
+      "ko": "자책하다, 스스로를 가혹하게 대하다",
+      "example": "You did everything you could, so don't be too hard on yourself.",
+      "exampleKo": "네가 할 수 있는 건 다 했으니 너무 자책하지 마."
+    },
+    {
+      "en": "hit a plateau",
+      "ko": "정체기에 접어들다",
+      "example": "My running times hit a plateau after three months of training.",
+      "exampleKo": "3개월의 훈련 후 내 달리기 기록이 정체기에 접어들었다."
+    },
+    {
+      "en": "a step forward",
+      "ko": "한 걸음의 발전, 진전",
+      "example": "Signing up for the workshop was a huge step forward for his career.",
+      "exampleKo": "그 워크숍에 등록한 것은 그의 경력에 아주 큰 진전이었다."
+    }
+  ]
+}
