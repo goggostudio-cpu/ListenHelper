@@ -1,0 +1,31 @@
+{
+  "en": "Great teamwork doesn't come from working in silence; it begins when we bridge the gap between our ideas. Taking the time to keep everyone in the loop saves hours of fixing misunderstandings later on.",
+  "ko": "훌륭한 팀워크는 침묵 속에서 일할 때 나오는 것이 아니라, 서로의 생각 사이의 간극을 좁힐 때 시작됩니다. 모두에게 진행 상황을 공유하는 데 시간을 들이면 나중에 오해를 바로잡는 데 드는 많은 시간을 아낄 수 있습니다.",
+  "subject": "quote",
+  "expressions": [
+    {
+      "en": "bridge the gap",
+      "ko": "간극을 좁히다, 차이를 메우다",
+      "example": "The workshop was designed to bridge the gap between management and frontline employees.",
+      "exampleKo": "그 워크숍은 경영진과 현장 직원들 사이의 간극을 좁히기 위해 기획되었습니다."
+    },
+    {
+      "en": "take the time to",
+      "ko": "~하는 데 시간을 들이다, 기꺼이 시간을 내다",
+      "example": "Please take the time to read through the guidelines before starting the project.",
+      "exampleKo": "프로젝트를 시작하기 전에 시간을 내어 가이드라인을 꼼꼼히 읽어보세요."
+    },
+    {
+      "en": "keep someone in the loop",
+      "ko": "~에게 진행 상황을 계속 공유하다",
+      "example": "Don't forget to keep the design team in the loop regarding the client's latest feedback.",
+      "exampleKo": "고객의 최신 피드백에 대해 디자인 팀에도 진행 상황을 공유하는 것을 잊지 마세요."
+    },
+    {
+      "en": "later on",
+      "ko": "나중에, 추후에",
+      "example": "Addressing small bugs early prevents major technical issues later on.",
+      "exampleKo": "초기에 사소한 버그를 해결하면 나중에 큰 기술적 문제가 발생하는 것을 방지할 수 있습니다."
+    }
+  ]
+}

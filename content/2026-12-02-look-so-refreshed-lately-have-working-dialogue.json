@@ -1,0 +1,71 @@
+{
+  "subject": "dialogue",
+  "lines": [
+    {
+      "speaker": "A",
+      "en": "You look so refreshed lately! Have you been working out?",
+      "ko": "너 요즘 안색이 진짜 좋다! 운동 시작했어?"
+    },
+    {
+      "speaker": "B",
+      "en": "Thanks! Actually, I started cutting back on late-night snacks.",
+      "ko": "고마워! 사실 요즘 야식을 좀 줄이기 시작했거든."
+    },
+    {
+      "speaker": "A",
+      "en": "That must be tough. Late-night cravings are my biggest weakness.",
+      "ko": "그거 쉽지 않았을 텐데. 난 밤에 음식 당기는 거 참는 게 제일 힘들더라."
+    },
+    {
+      "speaker": "B",
+      "en": "It was hard at first, but going to bed a bit earlier really helps.",
+      "ko": "처음엔 힘들었는데, 잠자리에 조금 일찍 드니까 확실히 도움이 돼."
+    },
+    {
+      "speaker": "A",
+      "en": "Good for you. Did you change anything else in your daily routine?",
+      "ko": "잘하고 있네. 하루 일과에서 다른 것도 바꾼 게 있어?"
+    },
+    {
+      "speaker": "B",
+      "en": "I make a point of drinking a big glass of water right after waking up.",
+      "ko": "아침에 일어나자마자 물 한 잔은 꼭 챙겨 마시고 있어."
+    },
+    {
+      "speaker": "A",
+      "en": "I should try that too. Small habits really do add up.",
+      "ko": "나도 한번 해봐야겠다. 작은 습관들이 쌓여서 큰 차이를 만드는구나."
+    },
+    {
+      "speaker": "B",
+      "en": "Definitely. You don't have to overhaul your whole lifestyle overnight.",
+      "ko": "맞아. 하룻밤 사이에 생활 방식 전체를 다 뜯어고칠 필요는 없더라고."
+    }
+  ],
+  "expressions": [
+    {
+      "en": "cut back on",
+      "ko": "~을 줄이다",
+      "example": "I am trying to cut back on caffeine because it keeps me awake at night.",
+      "exampleKo": "밤에 잠이 잘 안 와서 카페인을 좀 줄이려고 노력 중이에요."
+    },
+    {
+      "en": "make a point of",
+      "ko": "반드시 ~하다, 꼭 챙겨서 하다",
+      "example": "She makes a point of stretching for ten minutes before heading to work.",
+      "exampleKo": "그녀는 출근하기 전에 10분 동안 스트레칭하는 것을 꼭 챙긴다."
+    },
+    {
+      "en": "add up",
+      "ko": "쌓여서 큰 차이를 만들다, 합쳐지다",
+      "example": "Walking instead of taking the bus may seem minor, but those steps really add up.",
+      "exampleKo": "버스를 타는 대신 걷는 것이 사소해 보일 수 있지만, 그 걸음들이 모여 정말 큰 차이를 만듭니다."
+    },
+    {
+      "en": "overhaul",
+      "ko": "전면 개편하다, 완전히 뜯어고치다",
+      "example": "He decided to overhaul his diet after receiving the health checkup results.",
+      "exampleKo": "그는 건강검진 결과를 받아 본 후 식단을 전면적으로 개선하기로 결심했다."
+    }
+  ]
+}
