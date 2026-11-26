@@ -1,0 +1,31 @@
+{
+  "en": "Traveling is rarely about checking sights off a list; it’s about stepping out of your comfort zone and embracing the unexpected. Every unfamiliar street has a way of opening your eyes to a whole new perspective on life.",
+  "ko": "여행은 단순히 명소를 하나씩 체크하며 해치우는 것이 아닙니다. 익숙한 안락함을 벗어나 예기치 못한 순간들을 온전히 마주하는 일이죠. 낯선 거리를 걷다 보면 어느새 삶을 완전히 새로운 시각으로 바라보게 됩니다.",
+  "subject": "quote",
+  "expressions": [
+    {
+      "en": "check ... off a list",
+      "ko": "(목록에서 항목을) 지우다, 해치우다",
+      "example": "I spent the entire afternoon checking chores off my to-do list.",
+      "exampleKo": "나는 오후 내내 할 일 목록에 적힌 집안일들을 하나씩 해치웠다."
+    },
+    {
+      "en": "step out of one's comfort zone",
+      "ko": "익숙한 영역[안전지대]을 벗어나다",
+      "example": "Taking a solo trip really pushed me to step out of my comfort zone.",
+      "exampleKo": "혼자 떠난 여행 덕분에 나는 익숙한 환경에서 벗어나 새로운 도전을 할 수 있었다."
+    },
+    {
+      "en": "embrace the unexpected",
+      "ko": "예기치 못한 상황을 기꺼이 받아들이다",
+      "example": "Learning to embrace the unexpected makes traveling much more enjoyable.",
+      "exampleKo": "뜻밖의 상황을 유연하게 받아들이는 법을 배우면 여행이 훨씬 더 즐거워진다."
+    },
+    {
+      "en": "open one's eyes to ~",
+      "ko": "~에 눈을 뜨게 하다, 시야를 넓혀 주다",
+      "example": "Living in a different country opened my eyes to new ways of thinking.",
+      "exampleKo": "외국에서 생활해 본 경험은 새로운 사고방식에 눈을 뜨게 해 주었다."
+    }
+  ]
+}
